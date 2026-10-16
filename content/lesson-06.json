@@ -1,0 +1,139 @@
+{
+  "sourceFile": "A1 06.pdf",
+  "sourcePage": 4,
+  "review": "Visually checked against PDF page4, numbers table. Russian translations and IPA are editorial; no audio added. This is a22-entry subset, not the whole PDF.",
+  "entries": [
+    {
+      "french": "trente-deux",
+      "russian": "тридцать два",
+      "pronunciation": "tʁɑ̃t dø",
+      "example": ""
+    },
+    {
+      "french": "quarante",
+      "russian": "сорок",
+      "pronunciation": "kaʁɑ̃t",
+      "example": ""
+    },
+    {
+      "french": "quarante et un",
+      "russian": "сорок один",
+      "pronunciation": "kaʁɑ̃t e œ̃",
+      "example": ""
+    },
+    {
+      "french": "quarante-deux",
+      "russian": "сорок два",
+      "pronunciation": "kaʁɑ̃t dø",
+      "example": ""
+    },
+    {
+      "french": "cinquante",
+      "russian": "пятьдесят",
+      "pronunciation": "sɛ̃kɑ̃t",
+      "example": ""
+    },
+    {
+      "french": "cinquante et un",
+      "russian": "пятьдесят один",
+      "pronunciation": "sɛ̃kɑ̃t e œ̃",
+      "example": ""
+    },
+    {
+      "french": "cinquante-deux",
+      "russian": "пятьдесят два",
+      "pronunciation": "sɛ̃kɑ̃t dø",
+      "example": ""
+    },
+    {
+      "french": "soixante",
+      "russian": "шестьдесят",
+      "pronunciation": "swasɑ̃t",
+      "example": ""
+    },
+    {
+      "french": "soixante et un",
+      "russian": "шестьдесят один",
+      "pronunciation": "swasɑ̃t e œ̃",
+      "example": ""
+    },
+    {
+      "french": "soixante-deux",
+      "russian": "шестьдесят два",
+      "pronunciation": "swasɑ̃t dø",
+      "example": ""
+    },
+    {
+      "french": "soixante-dix",
+      "russian": "семьдесят",
+      "pronunciation": "swasɑ̃t dis",
+      "example": ""
+    },
+    {
+      "french": "soixante et onze",
+      "russian": "семьдесят один",
+      "pronunciation": "swasɑ̃t e ɔ̃z",
+      "example": ""
+    },
+    {
+      "french": "soixante-douze",
+      "russian": "семьдесят два",
+      "pronunciation": "swasɑ̃t duz",
+      "example": ""
+    },
+    {
+      "french": "quatre-vingts",
+      "russian": "восемьдесят",
+      "pronunciation": "katʁə vɛ̃",
+      "example": ""
+    },
+    {
+      "french": "quatre-vingt-un",
+      "russian": "восемьдесят один",
+      "pronunciation": "katʁə vɛ̃ œ̃",
+      "example": ""
+    },
+    {
+      "french": "quatre-vingt-deux",
+      "russian": "восемьдесят два",
+      "pronunciation": "katʁə vɛ̃ dø",
+      "example": ""
+    },
+    {
+      "french": "quatre-vingt-dix",
+      "russian": "девяносто",
+      "pronunciation": "katʁə vɛ̃ dis",
+      "example": ""
+    },
+    {
+      "french": "quatre-vingt-onze",
+      "russian": "девяносто один",
+      "pronunciation": "katʁə vɛ̃ ɔ̃z",
+      "example": ""
+    },
+    {
+      "french": "quatre-vingt-douze",
+      "russian": "девяносто два",
+      "pronunciation": "katʁə vɛ̃ duz",
+      "example": ""
+    },
+    {
+      "french": "cent",
+      "russian": "сто",
+      "pronunciation": "sɑ̃",
+      "example": ""
+    },
+    {
+      "french": "deux cents",
+      "russian": "двести",
+      "pronunciation": "dø sɑ̃",
+      "example": ""
+    },
+    {
+      "french": "mille",
+      "russian": "тысяча",
+      "pronunciation": "mil",
+      "example": ""
+    }
+  ]
+}

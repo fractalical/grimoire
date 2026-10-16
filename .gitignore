@@ -1,0 +1,37 @@
+# Dependencies and generated output
+node_modules/
+dist/
+*.tsbuildinfo
+test-results/
+playwright-report/
+coverage/
+*.log
+
+# Local settings and credentials
+.env
+.env.*
+!.env.example
+.npmrc
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.json
+.auth/
+playwright/.auth/
+storageState*.json
+
+# Downloaded progress backups
+grimoire-*.json
+
+# Intermediate PDF extracts and page renders; keep review reports
+/content/review/**/*.png
+/content/review/**/*.jpg
+/content/review/**/*.txt
+/content/review/**/first-pass/
+
+# Local editor and OS files
+.idea/
+.vscode/
+.DS_Store

@@ -1,0 +1,1258 @@
+# Reviewed vocabulary: lesson|PDF page|French|Russian|IPA (only when verified)
+# Alternatives separated by « / » are independently accepted answers.
+6|1|papa|папа|papa
+6|1|parler|разговаривать|paʁle
+6|1|penser|думать|pɑ̃se
+6|1|page|страница|paʒ
+6|1|perce-neige|подснежник|pɛʁsnɛʒ
+6|1|personne|человек|pɛʁsɔn
+6|1|pluie|дождь|plɥi
+6|1|prénom|имя|pʁenɔ̃
+6|1|psychologie|психология|psikɔlɔʒi
+6|1|banane|банан|banan
+6|1|bravo|браво|bʁavo
+6|1|baiser|поцелуй|beze
+6|1|banque|банк|bɑ̃k
+6|1|beurre|сливочное масло|bœʁ
+6|1|blocage|блокировка|blɔkaʒ
+6|1|brasserie|закусочная|bʁasʁi
+6|1|bruit|шум|bʁɥi
+6|1|bureau|письменный стол / офис|byʁo
+6|1|table|стол|tabl
+6|1|tarif|тариф|taʁif
+6|1|tente|палатка / тент|tɑ̃t
+6|1|théorie|теория|teɔʁi
+6|1|thermos|термос|tɛʁmɔs
+6|1|thème|тема|tɛm
+6|1|tigre|тигр|tiɡʁ
+6|1|tradition|традиция|tʁadisjɔ̃
+6|1|traduire|переводить|tʁadɥiʁ
+6|1|promenade|прогулка
+6|1|plaire|нравиться
+6|1|partir|уезжать
+6|1|bizarre|странный
+6|1|traducteur|переводчик
+6|1|traditionnel|традиционный
+6|2|dame|дама|dam
+6|2|danser|танцевать|dɑ̃se
+6|2|déchets|отходы|deʃɛ
+6|2|découvrir|открывать / обнаруживать|dekuvʁiʁ
+6|2|défilé|дефиле / парад|defile
+6|2|désordre|беспорядок|dezɔʁdʁ
+6|2|dessiner|рисовать|desine
+6|2|différence|разница|difeʁɑ̃s
+6|2|dire|говорить|diʁ
+6|2|pont|мост
+6|2|toit|крыша
+6|2|car|междугородний автобус
+6|2|bus|автобус
+6|2|doigt|палец
+6|2|gare|вокзал
+6|2|train|поезд
+6|2|quai|платформа
+6|2|à gauche|налево
+6|2|à droite|направо
+6|2|tout droit|прямо
+6|2|bientôt|скоро
+6|2|écrire|писать
+6|2|ami|друг
+6|2|enfant|ребёнок
+6|2|copain|приятель
+6|2|camarade|товарищ
+6|2|collègue|коллега
+6|2|parents|родители
+6|2|boire|пить
+6|2|poire|груша
+6|2|doux|мягкий
+6|2|goût|вкус
+6|2|cadeau|подарок
+6|2|gâteau|торт
+6|2|golf|гольф
+6|2|tennis|теннис
+6|2|bowling|боулинг
+6|2|patinoire|каток
+6|2|quartier|квартал / район
+6|2|excusez-moi|извините
+6|2|carrefour|перекрёсток
+6|2|bibliothèque|библиотека
+6|2|tourner|поворачивать
+6|4|zéro|ноль
+6|4|un|один
+6|4|deux|два
+6|4|trois|три
+6|4|quatre|четыре
+6|4|cinq|пять
+6|4|six|шесть
+6|4|sept|семь
+6|4|huit|восемь
+6|4|neuf|девять
+6|4|dix|десять
+6|4|onze|одиннадцать
+6|4|douze|двенадцать
+6|4|treize|тринадцать
+6|4|quatorze|четырнадцать
+6|4|quinze|пятнадцать
+6|4|seize|шестнадцать
+6|4|dix-sept|семнадцать
+6|4|dix-huit|восемнадцать
+6|4|dix-neuf|девятнадцать
+6|4|vingt|двадцать
+6|4|vingt et un|двадцать один
+6|4|vingt-deux|двадцать два
+6|4|vingt-trois|двадцать три
+6|4|vingt-quatre|двадцать четыре
+6|4|vingt-cinq|двадцать пять
+6|4|vingt-six|двадцать шесть
+6|4|vingt-sept|двадцать семь
+6|4|vingt-huit|двадцать восемь
+6|4|vingt-neuf|двадцать девять
+6|4|trente|тридцать
+6|4|trente et un|тридцать один
+6|4|trente-deux|тридцать два
+6|4|quarante|сорок
+6|4|quarante et un|сорок один
+6|4|quarante-deux|сорок два
+6|4|cinquante|пятьдесят
+6|4|cinquante et un|пятьдесят один
+6|4|cinquante-deux|пятьдесят два
+6|4|soixante|шестьдесят
+6|4|soixante et un|шестьдесят один
+6|4|soixante-deux|шестьдесят два
+6|4|soixante-dix|семьдесят
+6|4|soixante et onze|семьдесят один
+6|4|soixante-douze|семьдесят два
+6|4|quatre-vingts|восемьдесят
+6|4|quatre-vingt-un|восемьдесят один
+6|4|quatre-vingt-deux|восемьдесят два
+6|4|quatre-vingt-dix|девяносто
+6|4|quatre-vingt-onze|девяносто один
+6|4|quatre-vingt-douze|девяносто два
+6|4|cent|сто
+6|4|cent un|сто один
+6|4|cent deux|сто два
+6|4|deux cents|двести
+6|4|deux cent un|двести один
+6|4|deux cent deux|двести два
+6|4|trois cents|триста
+6|4|trois cent un|триста один
+6|4|trois cent deux|триста два
+6|4|quatre cents|четыреста
+6|4|quatre cent un|четыреста один
+6|4|quatre cent deux|четыреста два
+6|4|six cents|шестьсот
+6|4|cinq cent dix|пятьсот десять
+6|4|six cent cinquante|шестьсот пятьдесят
+6|4|mille|тысяча
+6|4|dix mille|десять тысяч
+6|4|cent mille|сто тысяч
+6|4|un million|миллион
+6|4|un milliard|миллиард
+6|5|numéro de téléphone|номер телефона
+6|6|aujourd'hui|сегодня
+6|6|demain|завтра
+6|6|lundi|понедельник
+6|6|mardi|вторник
+6|6|mercredi|среда
+6|6|jeudi|четверг
+6|6|vendredi|пятница
+6|6|samedi|суббота
+6|6|dimanche|воскресенье
+6|6|janvier|январь
+6|6|février|февраль
+6|6|mars|март
+6|6|avril|апрель
+6|6|mai|май
+6|6|juin|июнь
+6|6|juillet|июль
+6|6|août|август
+6|6|septembre|сентябрь
+6|6|octobre|октябрь
+6|6|novembre|ноябрь
+6|6|décembre|декабрь
+6|6|fête nationale|национальный праздник
+6|6|fête de la Musique|праздник музыки
+6|6|fête du Travail|праздник труда
+6|6|Mardi gras|жирный вторник
+6|6|premier|первый
+# Lesson 7: consonants, nationalities, introduction, number revision.
+7|1|écrire|писать|ekʁiʁ
+7|1|kilo|килограмм|kilo
+7|1|quel|какой|kɛl
+7|1|technique|технический|tɛknik
+7|1|culture|культура|kyltyʁ
+7|1|climat|климат|klima
+7|1|carte|карта|kaʁt
+7|1|carotte|морковь|kaʁɔt
+7|1|collège|коллеж|kɔlɛʒ
+7|1|gare|вокзал|ɡaʁ
+7|1|dialogue|диалог|djalɔɡ
+7|1|guerre|война|ɡɛʁ
+7|1|fatigue|усталость|fatiɡ
+7|1|regarder|смотреть|ʁəɡaʁde
+7|1|goût|вкус|ɡu
+7|1|guide|гид|ɡid
+7|1|grand|большой|ɡʁɑ̃
+7|1|gros|толстый|ɡʁo
+7|1|gâteau|торт|ɡato
+7|1|étudiante|студентка
+7|1|acheter|покупать
+7|1|amener|приводить
+7|2|fille|девочка / дочь|fij
+7|2|effet|эффект|efɛ
+7|2|finir|заканчивать|finiʁ
+7|2|enfant|ребёнок|ɑ̃fɑ̃
+7|2|futur|будущий|fytyʁ
+7|2|froid|холодный|fʁwa
+7|2|photo|фотография|fɔto
+7|2|pharmacie|аптека|faʁmasi
+7|2|vite|быстро|vit
+7|2|vacances|каникулы / отпуск|vakɑ̃s
+7|2|vert|зелёный|vɛʁ
+7|2|visage|лицо|vizaʒ
+7|2|voir|видеть|vwaʁ
+7|2|wagon|вагон|vaɡɔ̃
+7|2|la France|Франция|la fʁɑ̃s
+7|2|avoir froid|мёрзнуть
+7|3|français / française|французский / французская
+7|3|portugais / portugaise|португальский / португальская
+7|3|suédois / suédoise|шведский / шведская
+7|3|chinois / chinoise|китайский / китайская
+7|3|mexicain / mexicaine|мексиканский / мексиканская
+7|3|américain / américaine|американский / американская
+7|3|autrichien / autrichienne|австрийский / австрийская
+7|3|canadien / canadienne|канадский / канадская
+7|3|coréen / coréenne|корейский / корейская
+7|3|allemand / allemande|немецкий / немецкая
+7|3|espagnol / espagnole|испанский / испанская
+7|3|russe|русский / русская
+7|3|être|быть
+7|3|s'appeler|называться
+7|4|camerounais / camerounaise|камерунский / камерунская
+7|4|australien / australienne|австралийский / австралийская
+7|4|grec / grecque|греческий / греческая
+7|4|tunisien / tunisienne|тунисский / тунисская
+7|4|polonais / polonaise|польский / польская
+7|5|cinq|пять
+7|5|quinze|пятнадцать
+7|5|cinquante|пятьдесят
+7|5|sept|семь
+7|5|dix-sept|семнадцать
+7|5|vingt-sept|двадцать семь
+7|5|quatorze|четырнадцать
+7|5|quarante|сорок
+7|5|deux|два
+7|5|douze|двенадцать
+7|5|vingt|двадцать
+7|5|six|шесть
+7|5|seize|шестнадцать
+7|5|soixante|шестьдесят
+7|5|dix-huit|восемнадцать
+7|5|vingt-huit|двадцать восемь
+7|5|trente-huit|тридцать восемь
+7|5|onze|одиннадцать
+7|5|vingt et un|двадцать один
+7|5|trente et un|тридцать один
+# Lesson 8: vowels, calendar, avoir expressions, availability.
+8|1|vie|жизнь|vi
+8|1|île|остров|il
+8|1|petit|маленький|pəti
+8|1|naïf|наивный|naif
+8|1|finir|заканчивать|finiʁ
+8|1|visiter|посещать|vizite
+8|1|mardi|вторник|maʁdi
+8|1|bicyclette|велосипед|bisiklɛt
+8|1|ville|город|vil
+8|1|prix|цена|pʁi
+8|1|deux|два|dø
+8|1|peu|мало|pø
+8|1|vœux|пожелания|vø
+8|1|il pleut|идёт дождь|il plø
+8|1|heureux|счастливый|øʁø
+8|1|curieux|любопытный|kyʁjø
+8|1|cheveux|волосы|ʃəvø
+8|1|les yeux|глаза|le zjø
+8|1|feutre|фломастер|føtʁ
+8|1|je peux|я могу|ʒə pø
+8|2|livre|книга
+8|2|peinture|живопись
+8|2|lune|луна
+8|2|rue|улица
+8|2|six|шесть
+8|2|s'amuser|развлекаться
+8|2|étudier|учиться / изучать
+8|2|légumes|овощи
+8|2|voiture|машина
+8|2|sculpture|скульптура
+8|2|bateau|лодка / корабль
+8|2|fumer|курить
+8|2|ici|здесь
+8|2|descendre|спускаться
+8|3|hiver|зима
+8|3|printemps|весна
+8|3|été|лето
+8|3|automne|осень
+8|3|janvier|январь
+8|3|février|февраль
+8|3|mars|март
+8|3|avril|апрель
+8|3|mai|май
+8|3|juin|июнь
+8|3|juillet|июль
+8|3|août|август
+8|3|septembre|сентябрь
+8|3|octobre|октябрь
+8|3|novembre|ноябрь
+8|3|décembre|декабрь
+8|3|lundi|понедельник
+8|3|mercredi|среда
+8|3|jeudi|четверг
+8|3|vendredi|пятница
+8|3|samedi|суббота
+8|3|dimanche|воскресенье
+8|3|jour ouvrable|рабочий день
+8|3|week-end|выходные
+8|3|date|дата
+8|4|se présenter|представляться
+8|4|s'appeler|называться
+8|4|avoir|иметь
+8|4|être|быть
+8|4|âge|возраст
+8|4|allemand|немецкий
+8|4|italien|итальянский
+8|4|hollandais|голландский
+8|5|avoir froid|мёрзнуть
+8|5|avoir chaud|испытывать жару
+8|5|avoir soif|хотеть пить
+8|5|avoir faim|хотеть есть
+8|5|avoir mal|испытывать боль
+8|5|avoir peur|бояться
+8|5|avoir sommeil|хотеть спать
+8|5|avoir rendez-vous|иметь назначенную встречу
+8|5|avoir le temps|иметь время
+8|5|cadeau|подарок
+8|5|chance|удача
+8|5|vélo|велосипед
+8|5|montre|наручные часы
+8|5|chien|собака
+8|6|cours|занятие / урок
+8|6|matin|утро
+8|6|après-midi|вторая половина дня
+8|6|soir|вечер
+8|6|journée|день
+8|6|temps libre|свободное время
+8|6|disponibilité|наличие свободного времени
+8|6|tuteur|наставник
+8|6|niveau|уровень
+8|6|jeune|молодой
+8|6|libre|свободный
+8|6|disponible|доступный / свободный
+8|6|professeur|преподаватель
+8|6|étudiant|студент
+8|7|saison|время года
+8|7|semaine|неделя
+8|7|fin|конец
+8|7|temps|время
+# Lesson 9: vowels, nationalities, countries and tastes.
+9|1|rue|улица|ʁy
+9|1|avenue|проспект|av(ə)ny
+9|1|mur|стена|myʁ
+9|1|lune|луна|lyn
+9|1|nature|природа|natyʁ
+9|1|culture|культура|kyltyʁ
+9|1|musique|музыка|myzik
+9|1|architecture|архитектура|aʁʃitɛktyʁ
+9|1|jour|день|ʒuʁ
+9|1|bonjour|здравствуйте|bɔ̃ʒuʁ
+9|1|toujours|всегда|tuʒuʁ
+9|1|tour|башня|tuʁ
+9|1|cour|двор|kuʁ
+9|1|jouer|играть|ʒwe
+9|1|souci|забота / проблема|susi
+9|1|ceinture|пояс
+9|1|bouche|рот
+9|1|confiture|варенье
+9|1|jus|сок|ʒy
+9|1|sucre|сахар
+9|1|peinture|живопись
+9|1|loup|волк
+9|2|américain / américaine|американский / американская
+9|2|sénégalais / sénégalaise|сенегальский / сенегальская
+9|2|allemand / allemande|немецкий / немецкая
+9|2|argentin / argentine|аргентинский / аргентинская
+9|2|espagnol / espagnole|испанский / испанская
+9|2|colombien / colombienne|колумбийский / колумбийская
+9|2|suisse|швейцарский / швейцарская
+9|2|congolais / congolaise|конголезский / конголезская
+9|2|turc / turque|турецкий / турецкая
+9|2|tunisien / tunisienne|тунисский / тунисская
+9|2|brésilien / brésilienne|бразильский / бразильская
+9|2|français / française|французский / французская
+9|2|suédois / suédoise|шведский / шведская
+9|2|japonais / japonaise|японский / японская
+9|2|grec / grecque|греческий / греческая
+9|2|anglais / anglaise|английский / английская
+9|2|marocain / marocaine|марокканский / марокканская
+9|2|belge|бельгийский / бельгийская
+9|2|coréen / coréenne|корейский / корейская
+9|2|chinois / chinoise|китайский / китайская
+9|2|portugais / portugaise|португальский / португальская
+9|3|cinéma|кино
+9|3|sport|спорт
+9|3|art|искусство
+9|3|langue|язык
+9|3|histoire|история
+9|3|chocolat|шоколад
+9|3|vin|вино
+9|3|France|Франция
+9|3|Italie|Италия
+9|3|Mexique|Мексика
+9|3|Mozambique|Мозамбик
+9|3|Cambodge|Камбоджа
+9|3|Zimbabwe|Зимбабве
+9|3|États-Unis|США
+9|3|Pays-Bas|Нидерланды
+9|3|Chine|Китай
+9|3|Grèce|Греция
+9|3|Russie|Россия
+9|3|Canada|Канада
+9|3|Danemark|Дания
+9|3|Japon|Япония
+9|3|Portugal|Португалия
+9|3|Philippines|Филиппины
+9|3|Iran|Иран
+9|4|Mali|Мали
+9|4|Argentine|Аргентина
+9|4|Algérie|Алжир
+9|4|Espagne|Испания
+9|4|Angleterre|Англия
+9|4|Maroc|Марокко
+9|4|Belgique|Бельгия
+9|4|Corée|Корея
+9|4|Venezuela|Венесуэла
+9|4|Irlande|Ирландия
+9|5|soixante-huit|шестьдесят восемь
+9|5|trente-deux|тридцать два
+9|5|quarante et un|сорок один
+9|5|cinquante-cinq|пятьдесят пять
+9|5|quarante-cinq|сорок пять
+9|5|trente-sept|тридцать семь
+9|5|soixante et un|шестьдесят один
+9|5|quarante-six|сорок шесть
+9|5|trente-huit|тридцать восемь
+9|5|soixante-cinq|шестьдесят пять
+9|5|cinquante-deux|пятьдесят два
+9|5|cinquante et un|пятьдесят один
+9|5|nom|фамилия
+9|5|prénom|имя
+9|5|âge|возраст
+9|5|nationalité|национальность
+9|5|lundi|понедельник
+9|5|mardi|вторник
+9|5|mercredi|среда
+9|5|jeudi|четверг
+9|5|vendredi|пятница
+9|5|samedi|суббота
+9|5|dimanche|воскресенье
+# Lesson 10: phonetics, nouns, professions, grammatical-gender exercises.
+10|1|salut|привет|saly
+10|1|adresse|адрес|adʁɛs
+10|1|centre|центр|sɑ̃tʁ
+10|1|garçon|мальчик|ɡaʁsɔ̃
+10|1|natation|плавание|natasjɔ̃
+10|1|rose|роза|ʁoz
+10|1|magazine|журнал|maɡazin
+10|1|deuxième|второй|døzjɛm
+10|1|sixième|шестой|sizjɛm
+10|1|visiter|посещать|vizite
+10|1|base|база|baz
+10|1|zéro|ноль|zeʁo
+10|1|en face|напротив
+10|1|adresse mail|адрес электронной почты
+10|1|fois|раз
+10|1|habiter|жить / проживать
+10|1|japonais|японский
+10|1|suédois|шведский
+10|1|danois|датский
+10|1|polonais|польский
+10|1|libanais|ливанский
+10|1|amoureux|влюблённый
+10|2|sœur|сестра
+10|2|neige|снег
+10|2|bagages|багаж
+10|2|voyage|путешествие
+10|2|olive|оливка
+10|2|manger|есть / кушать
+10|2|lire|читать
+10|2|jouer|играть
+10|2|choisir|выбирать
+10|2|poisson|рыба
+10|2|boisson|напиток
+10|2|poison|яд
+10|2|cousin|двоюродный брат
+10|2|saucisson|колбаса
+10|3|homme|мужчина
+10|3|femme|женщина
+10|3|arbre|дерево
+10|3|route|дорога
+10|3|étudiant / étudiante|студент / студентка
+10|3|musicien / musicienne|музыкант / музыкантша
+10|3|serveur / serveuse|официант / официантка
+10|3|acteur / actrice|актёр / актриса
+10|3|journaliste|журналист / журналистка
+10|3|chanteur / chanteuse|певец / певица
+10|3|élégant|элегантный
+10|3|italien|итальянский
+10|3|rêveur|мечтательный
+10|3|séducteur|обольстительный
+10|3|triste|грустный
+10|3|fille|девочка / дочь
+10|3|ami|друг
+10|3|voiture|машина
+10|3|bus|автобус
+10|3|train|поезд
+10|3|avion|самолёт
+10|3|bateau|лодка / корабль
+10|3|hôtel|гостиница / отель
+10|3|maison|дом
+10|3|appartement|квартира
+10|3|chambre|комната
+10|3|lit|кровать
+10|3|table|стол
+10|3|chaise|стул
+10|3|divan|диван
+10|3|fauteuil|кресло
+10|3|sandwich|сэндвич / бутерброд
+10|3|salade|салат
+10|3|croissant|круассан
+10|3|gâteau|торт
+10|4|dame|дама
+10|4|entrer|входить
+10|4|regarder|смотреть
+10|4|acheter|покупать
+10|4|chercher|искать
+10|4|dîner|ужинать
+10|4|architecte|архитектор
+10|4|danseur|танцор
+10|4|vendeur|продавец
+10|4|boulanger|пекарь
+10|4|touriste|турист
+10|4|martien|марсианин
+10|4|connu|известный
+10|4|pressé|спешащий
+10|4|bavard|болтливый
+10|4|brun|темноволосый
+10|4|placard|встроенный шкаф
+10|4|armoire|шкаф
+10|4|gouvernement|правительство
+10|4|médicament|лекарство
+10|4|téléphone|телефон
+10|4|interphone|домофон
+10|4|magnétoscope|видеомагнитофон
+10|4|caméscope|видеокамера
+10|4|bureau|письменный стол / офис
+10|4|couteau|нож
+10|4|aspirateur|пылесос
+10|4|ordinateur|компьютер
+10|4|garage|гараж
+10|4|ménage|уборка
+10|4|image|изображение
+10|4|plage|пляж
+10|4|système|система
+10|4|problème|проблема
+10|4|programme|программа
+10|4|modèle|модель
+10|4|groupe|группа
+10|4|terme|термин
+10|4|fleur|цветок
+10|4|couleur|цвет
+10|4|peur|страх
+10|4|valeur|ценность
+10|4|chaleur|жара / тепло
+10|4|voix|голос
+10|4|choix|выбор
+10|4|solution|решение
+10|4|décision|решение
+10|4|télévision|телевидение / телевизор
+10|4|réalité|реальность
+10|4|société|общество
+10|4|beauté|красота
+10|4|culture|культура
+10|4|peinture|живопись
+10|4|bicyclette|велосипед
+10|4|disquette|дискета
+10|4|différence|разница
+10|4|référence|ссылка
+10|4|connaissance|знание
+10|5|gagner|выигрывать
+10|5|réfrigérateur|холодильник
+10|5|téléphone portable|мобильный телефон
+10|5|cadeau|подарок
+10|5|ballon|мяч
+10|5|fourchette|вилка
+10|5|addition|сложение
+10|5|soustraction|вычитание
+10|5|cassette vidéo|видеокассета
+10|5|université|университет
+10|5|vêtement|одежда
+10|5|publicité|реклама
+10|5|émission|передача
+10|5|européen|европейский
+10|5|original|оригинальный
+10|5|ensoleillé|солнечный
+10|5|international|международный
+10|5|intéressant|интересный
+10|5|travailler|работать
+10|5|téléphoner|звонить
+10|5|étudier|учиться / изучать
+10|5|chômage|безработица
+10|5|sécurité|безопасность
+10|5|corruption|коррупция
+10|5|santé|здоровье
+10|5|pollution|загрязнение
+10|5|sincérité|искренность
+10|5|tolérance|терпимость
+10|5|bonté|доброта
+10|5|courage|смелость
+10|5|curiosité|любопытство
+10|5|gentillesse|доброжелательность
+# Lesson 11: vowels, plural nouns, home and city, preferences.
+11|1|dos|спина|do
+11|1|mot|слово|mo
+11|1|beau|красивый|bo
+11|1|nouveau|новый|nuvo
+11|1|rose|розовый|ʁoz
+11|1|métro|метро|metʁo
+11|1|côte|побережье|kot
+11|1|flot|волна|flo
+11|1|haut|высокий|o
+11|1|eau|вода|o
+11|1|tableau|картина|tablo
+11|1|bureau|письменный стол / офис|byʁo
+11|1|manteau|пальто|mɑ̃to
+11|1|école|школа|ekɔl
+11|1|forum|форум|fɔʁɔm
+11|1|fort|сильный|fɔʁ
+11|1|téléphone|телефон|telefɔn
+11|1|pomme|яблоко|pɔm
+11|1|homme|мужчина|ɔm
+11|1|donner|давать|dɔne
+11|1|sonner|звонить|sɔne
+11|2|gauche|левый
+11|2|rouler|ехать
+11|2|professeur|преподаватель
+11|2|reposer|покоиться
+11|2|heure|час
+11|2|fleur|цветок
+11|2|peu|мало
+11|2|pot|горшок
+11|2|corps|тело
+11|2|cœur|сердце
+11|2|seul|один / одинокий
+11|2|marron|коричневый
+11|2|feu|огонь
+11|2|botte|сапог
+11|2|neuf / neuve|новый / новая
+11|2|or|золото
+11|2|sole|морской язык
+11|2|mourir|умирать
+11|2|mordre|кусать
+11|2|vouloir|хотеть
+11|2|voler|летать
+11|2|valoir|стоить
+11|2|sol|пол
+11|2|dehors|снаружи
+11|2|transport|транспорт
+11|2|porter|носить
+11|3|arbre|дерево
+11|3|oiseau|птица
+11|3|garçon|мальчик
+11|3|fille|девочка / дочь
+11|3|pays|страна
+11|3|choix|выбор
+11|3|gaz|газ
+11|3|journal|газета
+11|3|gâteau|торт
+11|3|ami|друг
+11|4|voiture|машина
+11|4|table|стол
+11|4|chaise|стул
+11|4|disque|диск
+11|4|livre|книга
+11|4|stylo|ручка
+11|4|café|кафе / кофе
+11|4|place|площадь
+11|4|boulangerie|булочная
+11|4|épicerie|продуктовая лавка
+11|4|cinéma|кино
+11|4|restaurant|ресторан
+11|4|jardin|сад
+11|4|capitale|столица
+11|4|salon|гостиная
+11|4|divan|диван
+11|4|fauteuil|кресло
+11|4|télévision|телевидение / телевизор
+11|4|chaîne stéréo|стереосистема
+11|4|plante|растение
+11|4|tapis|ковёр
+11|4|rideau|занавеска
+11|4|armoire|шкаф
+11|4|meuble|предмет мебели
+11|4|vase|ваза
+11|4|étagère|полка
+11|4|maison|дом
+11|4|immeuble|здание
+11|4|église|церковь
+11|4|fontaine|фонтан
+11|4|rue|улица
+11|4|parking|парковка
+11|4|village|деревня
+11|4|quartier|квартал / район
+11|4|lit|кровать
+11|4|vêtement|одежда
+11|4|ordinateur|компьютер
+11|4|chaussure|обувь
+11|4|réfrigérateur|холодильник
+11|4|boîte aux lettres|почтовый ящик
+11|4|lettre|письмо
+11|4|carte postale|открытка
+11|4|facture|счёт к оплате
+11|4|prospectus|рекламный листок
+11|4|sac|сумка
+11|4|clé|ключ
+11|4|papier|бумага
+11|4|agenda|ежедневник
+11|4|portefeuille|бумажник
+11|5|tour|башня
+11|5|pont|мост
+11|5|bateau|лодка / корабль
+11|5|mouche|муха
+11|5|bateau-mouche|прогулочный теплоход
+11|6|musée|музей
+11|6|gare|вокзал
+11|6|langue|язык
+11|6|orange|апельсин
+11|6|fruit|фрукт
+11|6|football|футбол
+11|6|sport|спорт
+11|6|populaire|популярный
+11|6|chat|кот / кошка
+11|6|veste en cuir|кожаная куртка
+11|6|moto|мотоцикл
+11|6|soleil|солнце
+11|6|vent|ветер
+11|6|froid|холод
+11|6|chaleur|жара / тепло
+11|6|bruit|шум
+11|6|plage|пляж
+11|6|pigeon|голубь
+11|6|bleu|синий
+11|6|jour|день
+11|6|couleur|цвет
+11|6|saison|время года
+11|6|animal|животное
+11|6|éléphant|слон
+11|6|chiffre|цифра
+11|6|sept|семь
+11|6|aimer|любить
+11|6|adorer|обожать
+11|6|détester|ненавидеть
+# Lesson 12: consonants, language, regular verbs and home activities.
+12|1|chocolat|шоколад|ʃɔkɔla
+12|1|shampooing|шампунь|ʃɑ̃pwɛ̃
+12|1|schéma|схема|ʃema
+12|1|chien|собака|ʃjɛ̃
+12|1|chat|кот / кошка|ʃa
+12|1|chanter|петь|ʃɑ̃te
+12|1|chose|вещь|ʃoz
+12|1|chez|у|ʃe
+12|1|chambre|комната|ʃɑ̃bʁ
+12|1|charme|очарование|ʃaʁm
+12|1|énergie|энергия|enɛʁʒi
+12|1|geste|жест|ʒɛst
+12|1|neige|снег|nɛʒ
+12|1|beige|бежевый|bɛʒ
+12|1|bagage|багаж|baɡaʒ
+12|1|page|страница|paʒ
+12|1|jaune|жёлтый|ʒon
+12|1|imaginer|воображать / представлять|imaʒine
+12|1|manger|есть / кушать|mɑ̃ʒe
+12|1|nager|плавать|naʒe
+12|2|langue|язык
+12|2|hôtel|гостиница / отель
+12|2|bibliothèque|библиотека
+12|2|belle|красивая
+12|2|lire|читать
+12|2|aller|идти
+12|2|mal|плохо
+12|2|arbre|дерево
+12|2|regarder|смотреть
+12|2|vert|зелёный
+12|2|rêver|мечтать
+12|2|rue|улица
+12|2|route|дорога
+12|2|travailler|работать
+12|2|quatre|четыре
+12|2|heure|час
+12|3|grec / grecque|греческий / греческая
+12|3|suisse|швейцарский / швейцарская
+12|3|tunisien / tunisienne|тунисский / тунисская
+12|3|vietnamien / vietnamienne|вьетнамский / вьетнамская
+12|3|chinois / chinoise|китайский / китайская
+12|3|italien / italienne|итальянский / итальянская
+12|3|sénégalais / sénégalaise|сенегальский / сенегальская
+12|3|japonais / japonaise|японский / японская
+12|3|brésilien / brésilienne|бразильский / бразильская
+12|3|art|искусство
+12|3|musique|музыка
+12|3|cinéma|кино
+12|4|personne|человек
+12|4|âge|возраст
+12|4|culture|культура
+12|5|parler|разговаривать
+12|5|téléphoner|звонить
+12|5|écouter|слушать
+12|5|aimer|любить
+12|5|étudier|учиться / изучать
+12|5|mari|муж
+12|5|carotte|морковь
+12|6|commencer|начинать
+12|6|terminer|заканчивать
+12|6|dîner|ужинать
+12|6|habiter|жить / проживать
+12|6|banque|банк
+12|6|cafétéria|кафетерий
+12|6|radio|радио
+12|6|télévision|телевидение / телевизор
+12|6|sport|спорт
+12|6|sandwich|сэндвич / бутерброд
+12|6|football|футбол
+12|8|banlieue|пригород
+12|8|librairie|книжный магазин
+12|8|parents|родители
+12|8|discothèque|дискотека
+12|8|piscine|бассейн
+12|8|cabine téléphonique|телефонная будка
+12|8|restaurant|ресторан
+12|8|danser|танцевать
+12|8|fumer|курить
+12|8|salon|гостиная
+12|8|cuisine|кухня
+12|8|grand-père|дедушка
+12|8|grand-mère|бабушка
+12|8|baby-sitter|няня
+12|8|ami|друг
+12|8|maîtresse|любовница
+12|8|docteur|врач
+12|8|canal|канал
+12|8|frère|брат
+12|8|sœur|сестра
+12|8|jouer|играть
+# Lesson 13: phonetic reading, regular verbs, work and hobbies.
+13|1|arrêter|останавливать
+13|1|s'arrêter|останавливаться
+13|1|amuser|развлекать
+13|1|s'amuser|развлекаться
+13|1|ignorer|игнорировать
+13|1|s'ignorer|игнорировать друг друга
+13|1|observer|наблюдать
+13|1|s'observer|наблюдать за собой
+13|1|interroger|спрашивать
+13|1|s'interroger|задаваться вопросом
+13|1|expliquer|объяснять
+13|1|s'expliquer|объясняться
+13|1|attendre|ждать
+13|1|s'attendre|ожидать
+13|1|choisir|выбирать
+13|1|changer|менять
+13|1|hier|вчера
+13|1|avant-hier|позавчера
+13|1|matin|утро
+13|1|dimanche|воскресенье
+13|1|jeudi|четверг
+13|1|chaque|каждый
+13|1|venir|приходить
+13|1|gens|люди
+13|1|grandir|расти
+13|1|cerisier|вишнёвое дерево
+13|1|oiseau|птица
+13|1|blanc|белый
+13|1|content|довольный
+13|2|chercher|искать
+13|2|samedi|суббота
+13|2|toujours|всегда
+13|2|après-midi|вторая половина дня
+13|2|sept|семь
+13|2|heure|час
+13|2|gentil|добрый / милый
+13|2|jeune homme|молодой человек
+13|2|chemise|рубашка
+13|2|leçon|урок
+13|2|mettre|класть / надевать
+13|2|comprendre|понимать
+13|3|terre|земля
+13|3|ciel|небо
+13|3|bord|край
+13|3|bol|миска
+13|3|cassé|сломанный
+13|3|mer|море
+13|3|port|порт
+13|3|marché|рынок
+13|3|près de|рядом с
+13|3|gare|вокзал
+13|3|frère|брат
+13|3|sœur|сестра
+13|3|père|отец
+13|3|liberté|свобода
+13|3|perle|жемчужина
+13|3|rare|редкий
+13|4|chanter|петь
+13|4|discuter|обсуждать
+13|4|pleurer|плакать
+13|4|aller|идти
+13|4|cuisiner|готовить еду
+13|4|manger|есть / кушать
+13|4|laver|мыть
+13|4|parler|разговаривать
+13|4|rêver|мечтать
+13|4|jardiner|работать в саду
+13|4|accuser|обвинять
+13|4|attaquer|нападать
+13|4|arriver|прибывать
+13|4|pratiquer|практиковать
+13|4|jouer|играть
+13|4|aimer|любить
+13|4|détester|ненавидеть
+13|4|souffler|дуть
+13|4|orange|апельсин
+13|4|nuit|ночь
+13|4|pluie|дождь
+13|4|cour|двор
+13|4|voisin|сосед
+13|4|camarade|товарищ
+13|4|chien|собака
+13|4|facteur|почтальон
+13|4|ami|друг
+13|4|karaté|карате
+13|4|piano|пианино
+13|4|glace au chocolat|шоколадное мороженое
+13|4|vent|ветер
+13|4|bougie|свеча
+13|5|travail|работа
+13|5|petit job|подработка
+13|5|étudiant|студент
+13|5|étudier|учиться / изучать
+13|5|langue|язык
+13|5|français|французский
+13|5|italien|итальянский
+13|5|anglais|английский
+13|5|arabe|арабский
+13|5|espagnol|испанский
+13|5|voyager|путешествовать
+13|5|rencontrer|встречать
+13|5|habiter|жить / проживать
+13|5|centre-ville|центр города
+13|5|rue|улица
+13|5|téléphone|телефон
+13|5|numéro|номер
+13|5|demain|завтра
+13|5|loisirs|досуг
+13|5|art|искусство
+13|5|cinéma|кино
+13|5|musique|музыка
+13|5|sport|спорт
+13|6|écouter de la musique|слушать музыку
+13|6|jouer d'un instrument|играть на музыкальном инструменте
+13|6|danser|танцевать
+13|6|jouer aux échecs|играть в шахматы
+13|6|regarder la télé|смотреть телевизор
+13|6|rencontrer des amis|встречаться с друзьями
+13|6|surfer sur Internet|сидеть в интернете
+13|6|visiter un musée|посещать музей
+13|6|téléphoner|звонить
+13|6|j'adore|я обожаю
+13|6|j'aime beaucoup|мне очень нравится
+13|6|j'aime bien|мне нравится
+13|6|je n'aime pas beaucoup|мне не очень нравится
+13|6|je n'aime pas du tout|мне совсем не нравится
+13|6|je déteste|я ненавижу
+13|6|tennis|теннис
+13|6|marcher|ходить пешком
+13|7|film|фильм
+13|7|préféré|любимый
+# Lesson 14: nasal vowels, countries/nationalities, contact details and large numbers.
+14|1|instrument|инструмент|ɛ̃stʁymɑ̃
+14|1|impossible|невозможный|ɛ̃pɔsibl
+14|1|pain|хлеб|pɛ̃
+14|1|faim|голод|fɛ̃
+14|1|africain|африканский|afʁikɛ̃
+14|1|sein|грудь|sɛ̃
+14|1|chien|собака|ʃjɛ̃
+14|1|pont|мост|pɔ̃
+14|1|long|длинный|lɔ̃
+14|1|conte|сказка|kɔ̃t
+14|1|ils vont|они идут|il vɔ̃
+14|1|montagne|гора|mɔ̃taɲ
+14|1|monter|подниматься|mɔ̃te
+14|1|tomber|падать|tɔ̃be
+14|1|nous parlons|мы разговариваем|nu paʁlɔ̃
+14|1|nous lisons|мы читаем|nu lizɔ̃
+14|1|voisin|сосед
+14|1|méchant|злой
+14|1|donner|давать
+14|2|brun|брюнет
+14|2|brin|стебелёк
+14|2|parfum|духи
+14|2|cent|сто
+14|2|onze|одиннадцать
+14|2|cent trente|сто тридцать
+14|2|deux mille|две тысячи
+14|2|cent onze|сто одиннадцать
+14|2|onze cents|тысяча сто
+14|2|banque|банк
+14|2|client|клиент
+14|2|agence|агентство
+14|2|habitant|житель
+14|2|septembre|сентябрь
+14|2|novembre|ноябрь
+14|2|décembre|декабрь
+14|2|janvier|январь
+14|2|se reposer|отдыхать
+14|2|programme|программа
+14|2|danse|танец
+14|2|rond|круглый
+14|3|en France|во Франции
+14|3|au Canada|в Канаде
+14|3|aux États-Unis|в США
+14|3|à Paris|в Париже
+14|4|Algérie|Алжир
+14|4|algérien / algérienne|алжирский / алжирская
+14|4|Allemagne|Германия
+14|4|allemand / allemande|немецкий / немецкая
+14|4|Argentine|Аргентина
+14|4|argentin / argentine|аргентинский / аргентинская
+14|4|Belgique|Бельгия
+14|4|belge|бельгийский / бельгийская
+14|4|Brésil|Бразилия
+14|4|brésilien / brésilienne|бразильский / бразильская
+14|4|Cameroun|Камерун
+14|4|camerounais / camerounaise|камерунский / камерунская
+14|4|Canada|Канада
+14|4|canadien / canadienne|канадский / канадская
+14|4|Chine|Китай
+14|4|chinois / chinoise|китайский / китайская
+14|4|Colombie|Колумбия
+14|4|colombien / colombienne|колумбийский / колумбийская
+14|4|Congo|Конго
+14|4|congolais / congolaise|конголезский / конголезская
+14|4|Corée|Корея
+14|4|coréen / coréenne|корейский / корейская
+14|4|Espagne|Испания
+14|4|espagnol / espagnole|испанский / испанская
+14|4|États-Unis|США
+14|4|américain / américaine|американский / американская
+14|4|France|Франция
+14|4|français / française|французский / французская
+14|4|Inde|Индия
+14|4|indien / indienne|индийский / индийская
+14|4|Italie|Италия
+14|4|italien / italienne|итальянский / итальянская
+14|4|Japon|Япония
+14|4|japonais / japonaise|японский / японская
+14|4|Maroc|Марокко
+14|4|marocain / marocaine|марокканский / марокканская
+14|4|Mexique|Мексика
+14|4|mexicain / mexicaine|мексиканский / мексиканская
+14|4|Pologne|Польша
+14|4|polonais / polonaise|польский / польская
+14|4|Pays-Bas|Нидерланды
+14|4|hollandais / hollandaise|голландский / голландская
+14|4|Russie|Россия
+14|4|russe|русский / русская
+14|4|Sénégal|Сенегал
+14|4|sénégalais / sénégalaise|сенегальский / сенегальская
+14|4|Suisse|Швейцария
+14|4|suisse|швейцарский / швейцарская
+14|4|République tchèque|Чехия
+14|4|tchèque|чешский / чешская
+14|4|Tunisie|Тунис
+14|4|tunisien / tunisienne|тунисский / тунисская
+14|4|Vietnam|Вьетнам
+14|4|vietnamien / vietnamienne|вьетнамский / вьетнамская
+14|4|nom|фамилия
+14|4|prénom|имя
+14|4|date de naissance|дата рождения
+14|4|lieu de naissance|место рождения
+14|4|pays|страна
+14|4|ville|город
+14|4|adresse mail|адрес электронной почты
+14|4|numéro de téléphone|номер телефона
+14|4|soixante-dix|семьдесят
+14|4|soixante et onze|семьдесят один
+14|4|soixante-douze|семьдесят два
+14|4|soixante-dix-neuf|семьдесят девять
+14|4|quatre-vingts|восемьдесят
+14|4|quatre-vingt-un|восемьдесят один
+14|4|quatre-vingt-dix|девяносто
+14|4|quatre-vingt-onze|девяносто один
+14|4|quatre-vingt-dix-neuf|девяносто девять
+14|4|septante|семьдесят
+14|4|huitante|восемьдесят
+14|4|nonante|девяносто
+14|5|festival|фестиваль
+14|5|auteur / autrice|автор / авторка
+14|5|compétition|соревнование
+14|5|album|альбом
+14|7|Angola|Ангола
+14|7|Philippines|Филиппины
+14|7|Europe|Европа
+14|7|Émirats arabes unis|Объединённые Арабские Эмираты
+14|7|Équateur|Эквадор
+14|7|Australie|Австралия
+14|7|Afrique|Африка
+14|7|Asie|Азия
+# Lesson 15: consonants, registration, questions, revision of -er verbs.
+15|1|notre|наш|nɔtʁ
+15|1|nature|природа|natyʁ
+15|1|neutre|нейтральный|nøtʁ
+15|1|nier|отрицать|nje
+15|1|espagnol|испанский|ɛspaɲɔl
+15|1|signe|знак|siɲ
+15|1|ligne|линия|liɲ
+15|1|gagner|выигрывать|ɡaɲe
+15|1|campagne|сельская местность|kɑ̃paɲ
+15|1|mère|мать|mɛʁ
+15|1|minute|минута|minyt
+15|1|aimer|любить|eme
+15|1|merci|спасибо|mɛʁsi
+15|1|boire|пить
+15|1|lire|читать
+15|1|pouvoir|мочь
+15|1|partir|уезжать
+15|1|dîner|ужинать
+15|1|étranger|иностранец
+15|1|amoureux|влюблённый
+15|1|dernier|последний
+15|2|sud|юг
+15|2|ping-pong|настольный теннис
+15|2|cap|мыс
+15|2|handicap|препятствие
+15|2|stop|стоп
+15|2|bus|автобус
+15|2|express|экспресс
+15|2|maïs|кукуруза
+15|2|mars|март
+15|2|cassis|чёрная смородина
+15|2|sens|смысл
+15|2|tennis|теннис
+15|2|fils|сын
+15|2|soie|шёлк
+15|2|eucalyptus|эвкалипт
+15|2|terminus|конечная остановка
+15|2|virus|вирус
+15|2|brut|необработанный
+15|2|direct|прямой
+15|2|est|восток
+15|2|exact|точный
+15|2|huit|восемь
+15|2|net|чёткий
+15|2|ouest|запад
+15|2|sept|семь
+15|2|but|цель
+15|2|août|август
+15|2|dix|десять
+15|2|six|шесть
+15|2|gaz|газ
+15|2|covoiturage|совместная поездка на машине
+15|2|site|сайт
+15|2|s'inscrire|регистрироваться
+15|2|formulaire|анкета
+15|2|sexe|пол
+15|2|prénom|имя
+15|2|date de naissance|дата рождения
+15|2|email|электронная почта
+15|3|festival|фестиваль
+15|3|culture|культура
+15|3|bande dessinée|комикс
+15|3|échanger|обмениваться
+15|3|coordonnées|контактные данные
+15|3|renseignements personnels|личные сведения
+15|3|quel / quelle|какой / какая
+15|4|nom|фамилия
+15|4|nationalité|национальность
+15|4|numéro de téléphone|номер телефона
+15|4|lieu de naissance|место рождения
+15|4|pays|страна
+15|4|ville|город
+15|4|loisir|занятие на досуге
+15|4|sport|спорт
+15|4|adresse|адрес
+15|4|langue|язык
+15|4|auteur|автор
+15|4|âge|возраст
+15|4|artiste|артист / художник
+15|4|en Algérie|в Алжире
+15|4|aux États-Unis|в США
+15|4|à Rome|в Риме
+15|4|au Cambodge|в Камбодже
+15|4|à Barcelone|в Барселоне
+15|5|belge|бельгийский / бельгийская
+15|5|camerounais / camerounaise|камерунский / камерунская
+15|5|coréen / coréenne|корейский / корейская
+15|5|sénégalais / sénégalaise|сенегальский / сенегальская
+15|5|polonais / polonaise|польский / польская
+15|5|allemand / allemande|немецкий / немецкая
+15|5|argentin / argentine|аргентинский / аргентинская
+15|5|indien / indienne|индийский / индийская
+15|5|tchèque|чешский / чешская
+15|5|marocain / marocaine|марокканский / марокканская
+15|5|américain / américaine|американский / американская
+15|5|vietnamien / vietnamienne|вьетнамский / вьетнамская
+15|5|inscription|регистрация
+15|5|code postal|почтовый индекс
+15|5|signature|подпись
+15|6|commencer|начинать
+15|6|corriger|исправлять
+15|6|cuisiner|готовить еду
+15|6|jouer|играть
+15|6|changer|менять
+15|6|noter|записывать
+15|6|apprendre|учить / узнавать
+15|6|devoir|домашнее задание
+15|6|plaisir|удовольствие
+15|6|guitare|гитара
+15|6|appartement|квартира
+15|6|réponse|ответ
+15|6|travailler|работать
+15|6|voyager|путешествовать
+15|6|parler|разговаривать
+15|6|terminer|заканчивать
+15|6|visiter|посещать
+15|6|détester|ненавидеть
+15|6|trouver|находить
+15|6|fumer|курить
+15|6|téléphoner|звонить
+15|6|magasin|магазин
+15|6|ensemble|вместе
+15|6|escargot|улитка
+15|6|stage|стажировка
+15|6|monument historique|исторический памятник
+15|6|comédie romantique|романтическая комедия
+15|6|exercice|упражнение
+15|6|facile|лёгкий
+15|6|souvent|часто
+15|6|parents|родители
+15|6|étudier|учиться / изучать
+15|6|observer|наблюдать
+15|6|préférer|предпочитать
+15|6|demander|спрашивать / просить
+15|6|acheter|покупать
+15|6|expliquer|объяснять
+15|6|secrétariat|секретариат
+15|6|langue étrangère|иностранный язык
+15|6|problème|проблема
+15|6|voisine|соседка
+15|6|nouvelle voiture|новая машина
+15|6|café au lait|кофе с молоком
+15|6|chat|кот / кошка
+15|6|oiseau|птица
+15|6|fenêtre|окно

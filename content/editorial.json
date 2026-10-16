@@ -1,0 +1,3168 @@
+{
+  "reviewDate": "2026-10-15",
+  "notes": "Explicit answer sets reviewed for the MVP. Whole source translation remains accepted, except corrected neuf/neuve. Compound shared complements expanded; no generic fuzzy matching. Distractors use a deliberately easy non-synonymous concrete anchor pool.",
+  "entries": {
+    "A1 01.pdf|toit|крыша": {
+      "acceptedRu": [
+        "крыша"
+      ],
+      "acceptedFr": [
+        "toit"
+      ]
+    },
+    "A1 01.pdf|renard|лиса": {
+      "acceptedRu": [
+        "лиса"
+      ],
+      "acceptedFr": [
+        "renard"
+      ]
+    },
+    "A1 01.pdf|souris|мышь": {
+      "acceptedRu": [
+        "мышь"
+      ],
+      "acceptedFr": [
+        "souris"
+      ]
+    },
+    "A1 01.pdf|paix|мир": {
+      "acceptedRu": [
+        "мир"
+      ],
+      "acceptedFr": [
+        "paix"
+      ]
+    },
+    "A1 01.pdf|nez|нос": {
+      "acceptedRu": [
+        "нос"
+      ],
+      "acceptedFr": [
+        "nez"
+      ]
+    },
+    "A1 01.pdf|loup|волк": {
+      "acceptedRu": [
+        "волк"
+      ],
+      "acceptedFr": [
+        "loup"
+      ]
+    },
+    "A1 01.pdf|sang|кровь": {
+      "acceptedRu": [
+        "кровь"
+      ],
+      "acceptedFr": [
+        "sang"
+      ]
+    },
+    "A1 01.pdf|savoir|знать": {
+      "acceptedRu": [
+        "знать"
+      ],
+      "acceptedFr": [
+        "savoir"
+      ]
+    },
+    "A1 01.pdf|aimer|любить": {
+      "acceptedRu": [
+        "любить"
+      ],
+      "acceptedFr": [
+        "aimer"
+      ]
+    },
+    "A1 01.pdf|hiver|зима": {
+      "acceptedRu": [
+        "зима"
+      ],
+      "acceptedFr": [
+        "hiver"
+      ]
+    },
+    "A1 01.pdf|cher / chère|дорогой / дорогая": {
+      "acceptedRu": [
+        "дорогой / дорогая",
+        "дорогой",
+        "дорогая"
+      ],
+      "acceptedFr": [
+        "cher / chère",
+        "cher",
+        "chère"
+      ]
+    },
+    "A1 01.pdf|mer|море": {
+      "acceptedRu": [
+        "море"
+      ],
+      "acceptedFr": [
+        "mer"
+      ]
+    },
+    "A1 01.pdf|hier|вчера": {
+      "acceptedRu": [
+        "вчера"
+      ],
+      "acceptedFr": [
+        "hier"
+      ]
+    },
+    "A1 01.pdf|fer|железо": {
+      "acceptedRu": [
+        "железо"
+      ],
+      "acceptedFr": [
+        "fer"
+      ]
+    },
+    "A1 01.pdf|ver|червь": {
+      "acceptedRu": [
+        "червь"
+      ],
+      "acceptedFr": [
+        "ver"
+      ]
+    },
+    "A1 01.pdf|banc|скамейка": {
+      "acceptedRu": [
+        "скамейка"
+      ],
+      "acceptedFr": [
+        "banc"
+      ]
+    },
+    "A1 01.pdf|boutique|небольшой магазин": {
+      "acceptedRu": [
+        "небольшой магазин"
+      ],
+      "acceptedFr": [
+        "boutique"
+      ]
+    },
+    "A1 01.pdf|forme|форма": {
+      "acceptedRu": [
+        "форма"
+      ],
+      "acceptedFr": [
+        "forme"
+      ]
+    },
+    "A1 01.pdf|kiosque|киоск": {
+      "acceptedRu": [
+        "киоск"
+      ],
+      "acceptedFr": [
+        "kiosque"
+      ]
+    },
+    "A1 01.pdf|clair / claire|светлый / ясный": {
+      "acceptedRu": [
+        "светлый / ясный",
+        "светлый",
+        "ясный",
+        "светлая",
+        "ясная"
+      ],
+      "acceptedFr": [
+        "clair / claire",
+        "clair",
+        "claire"
+      ]
+    },
+    "A1 01.pdf|travail|работа": {
+      "acceptedRu": [
+        "работа"
+      ],
+      "acceptedFr": [
+        "travail"
+      ]
+    },
+    "A1 01.pdf|crayon|карандаш": {
+      "acceptedRu": [
+        "карандаш"
+      ],
+      "acceptedFr": [
+        "crayon"
+      ]
+    },
+    "A1 01.pdf|photographe|фотограф": {
+      "acceptedRu": [
+        "фотограф"
+      ],
+      "acceptedFr": [
+        "photographe"
+      ]
+    },
+    "A1 01.pdf|phrase|фраза": {
+      "acceptedRu": [
+        "фраза"
+      ],
+      "acceptedFr": [
+        "phrase"
+      ]
+    },
+    "A1 01.pdf|talent|талант": {
+      "acceptedRu": [
+        "талант"
+      ],
+      "acceptedFr": [
+        "talent"
+      ]
+    },
+    "A1 01.pdf|thé|чай": {
+      "acceptedRu": [
+        "чай"
+      ],
+      "acceptedFr": [
+        "thé"
+      ]
+    },
+    "A1 01.pdf|action|действие": {
+      "acceptedRu": [
+        "действие"
+      ],
+      "acceptedFr": [
+        "action"
+      ]
+    },
+    "A1 01.pdf|petit / petite|маленький / маленькая": {
+      "acceptedRu": [
+        "маленький / маленькая",
+        "маленький",
+        "маленькая"
+      ],
+      "acceptedFr": [
+        "petit / petite",
+        "petit",
+        "petite"
+      ]
+    },
+    "A1 01.pdf|répéter|повторять": {
+      "acceptedRu": [
+        "повторять"
+      ],
+      "acceptedFr": [
+        "répéter"
+      ]
+    },
+    "A1 01.pdf|père|отец": {
+      "acceptedRu": [
+        "отец"
+      ],
+      "acceptedFr": [
+        "père"
+      ]
+    },
+    "A1 01.pdf|fenêtre|окно": {
+      "acceptedRu": [
+        "окно"
+      ],
+      "acceptedFr": [
+        "fenêtre"
+      ]
+    },
+    "A1 01.pdf|beau / belle|красивый / красивая": {
+      "acceptedRu": [
+        "красивый / красивая",
+        "красивый",
+        "красивая"
+      ],
+      "acceptedFr": [
+        "beau / belle",
+        "beau",
+        "belle"
+      ]
+    },
+    "A1 01.pdf|meuble|предмет мебели": {
+      "acceptedRu": [
+        "предмет мебели"
+      ],
+      "acceptedFr": [
+        "meuble"
+      ]
+    },
+    "A1 01.pdf|farce|фарс; шутка": {
+      "acceptedRu": [
+        "фарс; шутка",
+        "фарс",
+        "шутка"
+      ],
+      "acceptedFr": [
+        "farce"
+      ]
+    },
+    "A1 01.pdf|merci|спасибо": {
+      "acceptedRu": [
+        "спасибо"
+      ],
+      "acceptedFr": [
+        "merci"
+      ]
+    },
+    "A1 01.pdf|cycle|цикл": {
+      "acceptedRu": [
+        "цикл"
+      ],
+      "acceptedFr": [
+        "cycle"
+      ]
+    },
+    "A1 01.pdf|carte|карта": {
+      "acceptedRu": [
+        "карта"
+      ],
+      "acceptedFr": [
+        "carte"
+      ]
+    },
+    "A1 01.pdf|cravate|галстук": {
+      "acceptedRu": [
+        "галстук"
+      ],
+      "acceptedFr": [
+        "cravate"
+      ]
+    },
+    "A1 01.pdf|ça va|как дела; всё хорошо": {
+      "acceptedRu": [
+        "как дела; всё хорошо",
+        "как дела",
+        "всё хорошо"
+      ],
+      "acceptedFr": [
+        "ça va"
+      ]
+    },
+    "A1 01.pdf|geste|жест": {
+      "acceptedRu": [
+        "жест"
+      ],
+      "acceptedFr": [
+        "geste"
+      ]
+    },
+    "A1 01.pdf|girafe|жираф": {
+      "acceptedRu": [
+        "жираф"
+      ],
+      "acceptedFr": [
+        "girafe"
+      ]
+    },
+    "A1 01.pdf|gym|гимнастика; спортзал": {
+      "acceptedRu": [
+        "гимнастика; спортзал",
+        "гимнастика",
+        "спортзал"
+      ],
+      "acceptedFr": [
+        "gym"
+      ]
+    },
+    "A1 01.pdf|gare|вокзал": {
+      "acceptedRu": [
+        "вокзал"
+      ],
+      "acceptedFr": [
+        "gare"
+      ]
+    },
+    "A1 01.pdf|espagnol / espagnole|испанский; испанец / испанка": {
+      "acceptedRu": [
+        "испанский; испанец / испанка",
+        "испанский",
+        "испанец",
+        "испанка"
+      ],
+      "acceptedFr": [
+        "espagnol / espagnole",
+        "espagnol",
+        "espagnole"
+      ]
+    },
+    "A1 01.pdf|guerre|война": {
+      "acceptedRu": [
+        "война"
+      ],
+      "acceptedFr": [
+        "guerre"
+      ]
+    },
+    "A1 01.pdf|vase|ваза": {
+      "acceptedRu": [
+        "ваза"
+      ],
+      "acceptedFr": [
+        "vase"
+      ]
+    },
+    "A1 01.pdf|salle|зал; комната": {
+      "acceptedRu": [
+        "зал; комната",
+        "зал",
+        "комната"
+      ],
+      "acceptedFr": [
+        "salle"
+      ]
+    },
+    "A1 01.pdf|tasse|чашка": {
+      "acceptedRu": [
+        "чашка"
+      ],
+      "acceptedFr": [
+        "tasse"
+      ]
+    },
+    "A1 01.pdf|cœur|сердце": {
+      "acceptedRu": [
+        "сердце"
+      ],
+      "acceptedFr": [
+        "cœur"
+      ]
+    },
+    "A1 01.pdf|sœur|сестра": {
+      "acceptedRu": [
+        "сестра"
+      ],
+      "acceptedFr": [
+        "sœur"
+      ]
+    },
+    "A1 01.pdf|moi|я; меня; мне": {
+      "acceptedRu": [
+        "я; меня; мне",
+        "я",
+        "меня",
+        "мне"
+      ],
+      "acceptedFr": [
+        "moi"
+      ]
+    },
+    "A1 01.pdf|point|точка": {
+      "acceptedRu": [
+        "точка"
+      ],
+      "acceptedFr": [
+        "point"
+      ]
+    },
+    "A1 01.pdf|bombe|бомба": {
+      "acceptedRu": [
+        "бомба"
+      ],
+      "acceptedFr": [
+        "bombe"
+      ]
+    },
+    "A1 01.pdf|pont|мост": {
+      "acceptedRu": [
+        "мост"
+      ],
+      "acceptedFr": [
+        "pont"
+      ]
+    },
+    "A1 01.pdf|dire|говорить; сказать": {
+      "acceptedRu": [
+        "говорить; сказать",
+        "говорить",
+        "сказать"
+      ],
+      "acceptedFr": [
+        "dire"
+      ]
+    },
+    "A1 01.pdf|fille|девочка; дочь": {
+      "acceptedRu": [
+        "девочка; дочь",
+        "девочка",
+        "дочь"
+      ],
+      "acceptedFr": [
+        "fille"
+      ]
+    },
+    "A1 01.pdf|ville|город": {
+      "acceptedRu": [
+        "город"
+      ],
+      "acceptedFr": [
+        "ville"
+      ]
+    },
+    "A1 01.pdf|mille|тысяча": {
+      "acceptedRu": [
+        "тысяча"
+      ],
+      "acceptedFr": [
+        "mille"
+      ]
+    },
+    "A1 01.pdf|tranquille|спокойный": {
+      "acceptedRu": [
+        "спокойный"
+      ],
+      "acceptedFr": [
+        "tranquille"
+      ]
+    },
+    "A1 01.pdf|impossible|невозможный": {
+      "acceptedRu": [
+        "невозможный"
+      ],
+      "acceptedFr": [
+        "impossible"
+      ]
+    },
+    "A1 01.pdf|intégrer|интегрировать; поступить": {
+      "acceptedRu": [
+        "интегрировать; поступить",
+        "интегрировать",
+        "поступить"
+      ],
+      "acceptedFr": [
+        "intégrer"
+      ]
+    },
+    "A1 01.pdf|stylo|ручка": {
+      "acceptedRu": [
+        "ручка"
+      ],
+      "acceptedFr": [
+        "stylo"
+      ]
+    },
+    "A1 01.pdf|union|союз": {
+      "acceptedRu": [
+        "союз"
+      ],
+      "acceptedFr": [
+        "union"
+      ]
+    },
+    "A1 01.pdf|parfum|духи; аромат": {
+      "acceptedRu": [
+        "духи; аромат",
+        "духи",
+        "аромат"
+      ],
+      "acceptedFr": [
+        "parfum"
+      ]
+    },
+    "A1 01.pdf|lundi|понедельник": {
+      "acceptedRu": [
+        "понедельник"
+      ],
+      "acceptedFr": [
+        "lundi"
+      ]
+    },
+    "A1 01.pdf|expression|выражение": {
+      "acceptedRu": [
+        "выражение"
+      ],
+      "acceptedFr": [
+        "expression"
+      ]
+    },
+    "A1 01.pdf|examen|экзамен": {
+      "acceptedRu": [
+        "экзамен"
+      ],
+      "acceptedFr": [
+        "examen"
+      ]
+    },
+    "A1 01.pdf|zéro|ноль": {
+      "acceptedRu": [
+        "ноль"
+      ],
+      "acceptedFr": [
+        "zéro"
+      ]
+    },
+    "A1 01.pdf|portrait|портрет": {
+      "acceptedRu": [
+        "портрет"
+      ],
+      "acceptedFr": [
+        "portrait"
+      ]
+    },
+    "A1 01.pdf|main|рука; кисть": {
+      "acceptedRu": [
+        "рука; кисть",
+        "рука",
+        "кисть"
+      ],
+      "acceptedFr": [
+        "main"
+      ]
+    },
+    "A1 01.pdf|maman|мама": {
+      "acceptedRu": [
+        "мама"
+      ],
+      "acceptedFr": [
+        "maman"
+      ]
+    },
+    "A1 01.pdf|autobus|автобус": {
+      "acceptedRu": [
+        "автобус"
+      ],
+      "acceptedFr": [
+        "autobus"
+      ]
+    },
+    "A1 01.pdf|costume|костюм": {
+      "acceptedRu": [
+        "костюм"
+      ],
+      "acceptedFr": [
+        "costume"
+      ]
+    },
+    "A1 01.pdf|cube|куб": {
+      "acceptedRu": [
+        "куб"
+      ],
+      "acceptedFr": [
+        "cube"
+      ]
+    },
+    "A1 01.pdf|façade|фасад": {
+      "acceptedRu": [
+        "фасад"
+      ],
+      "acceptedFr": [
+        "façade"
+      ]
+    },
+    "A1 01.pdf|œuf|яйцо": {
+      "acceptedRu": [
+        "яйцо"
+      ],
+      "acceptedFr": [
+        "œuf"
+      ]
+    },
+    "A1 01.pdf|soupe|суп": {
+      "acceptedRu": [
+        "суп"
+      ],
+      "acceptedFr": [
+        "soupe"
+      ]
+    },
+    "A1 01.pdf|photo|фотография": {
+      "acceptedRu": [
+        "фотография"
+      ],
+      "acceptedFr": [
+        "photo"
+      ]
+    },
+    "A1 01.pdf|masque|маска": {
+      "acceptedRu": [
+        "маска"
+      ],
+      "acceptedFr": [
+        "masque"
+      ]
+    },
+    "A1 01.pdf|pluie|дождь": {
+      "acceptedRu": [
+        "дождь"
+      ],
+      "acceptedFr": [
+        "pluie"
+      ]
+    },
+    "A1 01.pdf|sympathique|приятный; симпатичный": {
+      "acceptedRu": [
+        "приятный; симпатичный",
+        "приятный",
+        "симпатичный",
+        "приятная",
+        "симпатичная"
+      ],
+      "acceptedFr": [
+        "sympathique"
+      ]
+    },
+    "A1 01.pdf|affiche|афиша; плакат": {
+      "acceptedRu": [
+        "афиша; плакат",
+        "афиша",
+        "плакат"
+      ],
+      "acceptedFr": [
+        "affiche"
+      ]
+    },
+    "A1 01.pdf|planète|планета": {
+      "acceptedRu": [
+        "планета"
+      ],
+      "acceptedFr": [
+        "planète"
+      ]
+    },
+    "A1 01.pdf|tête|голова": {
+      "acceptedRu": [
+        "голова"
+      ],
+      "acceptedFr": [
+        "tête"
+      ]
+    },
+    "A1 01.pdf|fête|праздник": {
+      "acceptedRu": [
+        "праздник"
+      ],
+      "acceptedFr": [
+        "fête"
+      ]
+    },
+    "A1 01.pdf|île|остров": {
+      "acceptedRu": [
+        "остров"
+      ],
+      "acceptedFr": [
+        "île"
+      ]
+    },
+    "A1 01.pdf|soleil|солнце": {
+      "acceptedRu": [
+        "солнце"
+      ],
+      "acceptedFr": [
+        "soleil"
+      ]
+    },
+    "A1 01.pdf|oreille|ухо": {
+      "acceptedRu": [
+        "ухо"
+      ],
+      "acceptedFr": [
+        "oreille"
+      ]
+    },
+    "A1 01.pdf|peintre|художник": {
+      "acceptedRu": [
+        "художник"
+      ],
+      "acceptedFr": [
+        "peintre"
+      ]
+    },
+    "A1 01.pdf|temps|время; погода": {
+      "acceptedRu": [
+        "время; погода",
+        "время",
+        "погода"
+      ],
+      "acceptedFr": [
+        "temps"
+      ]
+    },
+    "A1 01.pdf|dentiste|стоматолог": {
+      "acceptedRu": [
+        "стоматолог"
+      ],
+      "acceptedFr": [
+        "dentiste"
+      ]
+    },
+    "A1 01.pdf|bleu / bleue|синий / синяя": {
+      "acceptedRu": [
+        "синий / синяя",
+        "синий",
+        "синяя"
+      ],
+      "acceptedFr": [
+        "bleu / bleue",
+        "bleu",
+        "bleue"
+      ]
+    },
+    "A1 01.pdf|directeur / directrice|директор / директриса": {
+      "acceptedRu": [
+        "директор / директриса",
+        "директор",
+        "директриса"
+      ],
+      "acceptedFr": [
+        "directeur / directrice",
+        "directeur",
+        "directrice"
+      ]
+    },
+    "A1 01.pdf|général / générale|общий; генеральный": {
+      "acceptedRu": [
+        "общий; генеральный",
+        "общий",
+        "генеральный",
+        "общая",
+        "генеральная"
+      ],
+      "acceptedFr": [
+        "général / générale",
+        "général",
+        "générale"
+      ]
+    },
+    "A1 01.pdf|magasin|магазин": {
+      "acceptedRu": [
+        "магазин"
+      ],
+      "acceptedFr": [
+        "magasin"
+      ]
+    },
+    "A1 01.pdf|timbre|почтовая марка": {
+      "acceptedRu": [
+        "почтовая марка"
+      ],
+      "acceptedFr": [
+        "timbre"
+      ]
+    },
+    "A1 01.pdf|J’aime la France|Я люблю Францию": {
+      "acceptedRu": [
+        "Я люблю Францию"
+      ],
+      "acceptedFr": [
+        "J’aime la France"
+      ]
+    },
+    "A1 01.pdf|apprendre|учить; изучать": {
+      "acceptedRu": [
+        "учить; изучать",
+        "учить",
+        "изучать"
+      ],
+      "acceptedFr": [
+        "apprendre"
+      ]
+    },
+    "A1 01.pdf|voyager|путешествовать": {
+      "acceptedRu": [
+        "путешествовать"
+      ],
+      "acceptedFr": [
+        "voyager"
+      ]
+    },
+    "A1 01.pdf|avoir besoin de|нуждаться в": {
+      "acceptedRu": [
+        "нуждаться в"
+      ],
+      "acceptedFr": [
+        "avoir besoin de"
+      ]
+    },
+    "A1 02.pdf|amour|любовь": {
+      "acceptedRu": [
+        "любовь"
+      ],
+      "acceptedFr": [
+        "amour"
+      ]
+    },
+    "A1 02.pdf|café|кофе; кафе": {
+      "acceptedRu": [
+        "кофе; кафе",
+        "кофе",
+        "кафе"
+      ],
+      "acceptedFr": [
+        "café"
+      ]
+    },
+    "A1 02.pdf|drame|драма": {
+      "acceptedRu": [
+        "драма"
+      ],
+      "acceptedFr": [
+        "drame"
+      ]
+    },
+    "A1 02.pdf|effet|эффект": {
+      "acceptedRu": [
+        "эффект"
+      ],
+      "acceptedFr": [
+        "effet"
+      ]
+    },
+    "A1 02.pdf|garage|гараж": {
+      "acceptedRu": [
+        "гараж"
+      ],
+      "acceptedFr": [
+        "garage"
+      ]
+    },
+    "A1 02.pdf|hôtel|отель": {
+      "acceptedRu": [
+        "отель"
+      ],
+      "acceptedFr": [
+        "hôtel"
+      ]
+    },
+    "A1 02.pdf|jury|жюри": {
+      "acceptedRu": [
+        "жюри"
+      ],
+      "acceptedFr": [
+        "jury"
+      ]
+    },
+    "A1 02.pdf|légende|легенда": {
+      "acceptedRu": [
+        "легенда"
+      ],
+      "acceptedFr": [
+        "légende"
+      ]
+    },
+    "A1 02.pdf|naïf / naïve|наивный / наивная": {
+      "acceptedRu": [
+        "наивный / наивная",
+        "наивный",
+        "наивная"
+      ],
+      "acceptedFr": [
+        "naïf / naïve",
+        "naïf",
+        "naïve"
+      ]
+    },
+    "A1 02.pdf|ovale|овальный": {
+      "acceptedRu": [
+        "овальный"
+      ],
+      "acceptedFr": [
+        "ovale"
+      ]
+    },
+    "A1 02.pdf|papa|папа": {
+      "acceptedRu": [
+        "папа"
+      ],
+      "acceptedFr": [
+        "papa"
+      ]
+    },
+    "A1 02.pdf|quartier|квартал; район": {
+      "acceptedRu": [
+        "квартал; район",
+        "квартал",
+        "район"
+      ],
+      "acceptedFr": [
+        "quartier"
+      ]
+    },
+    "A1 02.pdf|ravioli|равиоли": {
+      "acceptedRu": [
+        "равиоли"
+      ],
+      "acceptedFr": [
+        "ravioli"
+      ]
+    },
+    "A1 02.pdf|stable|стабильный": {
+      "acceptedRu": [
+        "стабильный"
+      ],
+      "acceptedFr": [
+        "stable"
+      ]
+    },
+    "A1 02.pdf|utile|полезный": {
+      "acceptedRu": [
+        "полезный"
+      ],
+      "acceptedFr": [
+        "utile"
+      ]
+    },
+    "A1 02.pdf|wagon|вагон": {
+      "acceptedRu": [
+        "вагон"
+      ],
+      "acceptedFr": [
+        "wagon"
+      ]
+    },
+    "A1 02.pdf|xylophone|ксилофон": {
+      "acceptedRu": [
+        "ксилофон"
+      ],
+      "acceptedFr": [
+        "xylophone"
+      ]
+    },
+    "A1 02.pdf|yacht|яхта": {
+      "acceptedRu": [
+        "яхта"
+      ],
+      "acceptedFr": [
+        "yacht"
+      ]
+    },
+    "A1 02.pdf|zèbre|зебра": {
+      "acceptedRu": [
+        "зебра"
+      ],
+      "acceptedFr": [
+        "zèbre"
+      ]
+    },
+    "A1 02.pdf|bonjour|здравствуйте; добрый день": {
+      "acceptedRu": [
+        "здравствуйте; добрый день",
+        "здравствуйте",
+        "добрый день",
+        "здравствуй"
+      ],
+      "acceptedFr": [
+        "bonjour"
+      ]
+    },
+    "A1 02.pdf|bonsoir|добрый вечер": {
+      "acceptedRu": [
+        "добрый вечер"
+      ],
+      "acceptedFr": [
+        "bonsoir"
+      ]
+    },
+    "A1 02.pdf|salut|привет; пока": {
+      "acceptedRu": [
+        "привет; пока",
+        "привет",
+        "пока"
+      ],
+      "acceptedFr": [
+        "salut"
+      ]
+    },
+    "A1 02.pdf|coucou|привет (разговорное)": {
+      "acceptedRu": [
+        "привет (разговорное)",
+        "привет"
+      ],
+      "acceptedFr": [
+        "coucou"
+      ]
+    },
+    "A1 02.pdf|au revoir|до свидания": {
+      "acceptedRu": [
+        "до свидания"
+      ],
+      "acceptedFr": [
+        "au revoir"
+      ]
+    },
+    "A1 02.pdf|bonne journée|хорошего дня": {
+      "acceptedRu": [
+        "хорошего дня"
+      ],
+      "acceptedFr": [
+        "bonne journée"
+      ]
+    },
+    "A1 02.pdf|bonne soirée|хорошего вечера": {
+      "acceptedRu": [
+        "хорошего вечера"
+      ],
+      "acceptedFr": [
+        "bonne soirée"
+      ]
+    },
+    "A1 02.pdf|bon week-end|хороших выходных": {
+      "acceptedRu": [
+        "хороших выходных"
+      ],
+      "acceptedFr": [
+        "bon week-end"
+      ]
+    },
+    "A1 02.pdf|bonne nuit|спокойной ночи": {
+      "acceptedRu": [
+        "спокойной ночи"
+      ],
+      "acceptedFr": [
+        "bonne nuit"
+      ]
+    },
+    "A1 02.pdf|à tout à l’heure|до скорого; увидимся позже": {
+      "acceptedRu": [
+        "до скорого; увидимся позже",
+        "до скорого",
+        "увидимся позже"
+      ],
+      "acceptedFr": [
+        "à tout à l’heure"
+      ]
+    },
+    "A1 02.pdf|à plus tard|увидимся позже": {
+      "acceptedRu": [
+        "увидимся позже"
+      ],
+      "acceptedFr": [
+        "à plus tard"
+      ]
+    },
+    "A1 02.pdf|à bientôt|до скорого": {
+      "acceptedRu": [
+        "до скорого"
+      ],
+      "acceptedFr": [
+        "à bientôt"
+      ]
+    },
+    "A1 02.pdf|à demain|до завтра": {
+      "acceptedRu": [
+        "до завтра"
+      ],
+      "acceptedFr": [
+        "à demain"
+      ]
+    },
+    "A1 02.pdf|à lundi|до понедельника": {
+      "acceptedRu": [
+        "до понедельника"
+      ],
+      "acceptedFr": [
+        "à lundi"
+      ]
+    },
+    "A1 02.pdf|Comment vas-tu ?|Как ты?": {
+      "acceptedRu": [
+        "Как ты?"
+      ],
+      "acceptedFr": [
+        "Comment vas-tu ?"
+      ]
+    },
+    "A1 02.pdf|Comment allez-vous ?|Как вы?": {
+      "acceptedRu": [
+        "Как вы?"
+      ],
+      "acceptedFr": [
+        "Comment allez-vous ?"
+      ]
+    },
+    "A1 02.pdf|Je vais bien|У меня всё хорошо": {
+      "acceptedRu": [
+        "У меня всё хорошо"
+      ],
+      "acceptedFr": [
+        "Je vais bien"
+      ]
+    },
+    "A1 02.pdf|pas mal|неплохо": {
+      "acceptedRu": [
+        "неплохо"
+      ],
+      "acceptedFr": [
+        "pas mal"
+      ]
+    },
+    "A1 02.pdf|malade|больной / больная": {
+      "acceptedRu": [
+        "больной / больная",
+        "больной",
+        "больная"
+      ],
+      "acceptedFr": [
+        "malade"
+      ]
+    },
+    "A1 02.pdf|fatigué / fatiguée|уставший / уставшая": {
+      "acceptedRu": [
+        "уставший / уставшая",
+        "уставший",
+        "уставшая"
+      ],
+      "acceptedFr": [
+        "fatigué / fatiguée",
+        "fatigué",
+        "fatiguée"
+      ]
+    },
+    "A1 02.pdf|être|быть": {
+      "acceptedRu": [
+        "быть"
+      ],
+      "acceptedFr": [
+        "être"
+      ]
+    },
+    "A1 02.pdf|aller|идти; ехать": {
+      "acceptedRu": [
+        "идти; ехать",
+        "идти",
+        "ехать"
+      ],
+      "acceptedFr": [
+        "aller"
+      ]
+    },
+    "A1 02.pdf|blond / blonde|блондин / блондинка; светловолосый": {
+      "acceptedRu": [
+        "блондин / блондинка; светловолосый",
+        "блондин",
+        "блондинка",
+        "светловолосый"
+      ],
+      "acceptedFr": [
+        "blond / blonde",
+        "blond",
+        "blonde"
+      ]
+    },
+    "A1 02.pdf|brun / brune|брюнет / брюнетка; тёмноволосый": {
+      "acceptedRu": [
+        "брюнет / брюнетка; тёмноволосый",
+        "брюнет",
+        "брюнетка",
+        "тёмноволосый"
+      ],
+      "acceptedFr": [
+        "brun / brune",
+        "brun",
+        "brune"
+      ]
+    },
+    "A1 02.pdf|grand / grande|высокий / высокая; большой": {
+      "acceptedRu": [
+        "высокий / высокая; большой",
+        "высокий",
+        "высокая",
+        "большой",
+        "большая"
+      ],
+      "acceptedFr": [
+        "grand / grande",
+        "grand",
+        "grande"
+      ]
+    },
+    "A1 02.pdf|célibataire|холостой; незамужняя": {
+      "acceptedRu": [
+        "холостой; незамужняя",
+        "холостой",
+        "незамужняя",
+        "неженатый",
+        "незамужний"
+      ],
+      "acceptedFr": [
+        "célibataire"
+      ]
+    },
+    "A1 02.pdf|marié / mariée|женатый / замужняя": {
+      "acceptedRu": [
+        "женатый / замужняя",
+        "женатый",
+        "замужняя"
+      ],
+      "acceptedFr": [
+        "marié / mariée",
+        "marié",
+        "mariée"
+      ]
+    },
+    "A1 02.pdf|gentil / gentille|добрый / добрая": {
+      "acceptedRu": [
+        "добрый / добрая",
+        "добрый",
+        "добрая"
+      ],
+      "acceptedFr": [
+        "gentil / gentille",
+        "gentil",
+        "gentille"
+      ]
+    },
+    "A1 02.pdf|étudiant / étudiante|студент / студентка": {
+      "acceptedRu": [
+        "студент / студентка",
+        "студент",
+        "студентка"
+      ],
+      "acceptedFr": [
+        "étudiant / étudiante",
+        "étudiant",
+        "étudiante"
+      ]
+    },
+    "A1 02.pdf|calme|спокойный": {
+      "acceptedRu": [
+        "спокойный"
+      ],
+      "acceptedFr": [
+        "calme"
+      ]
+    },
+    "A1 02.pdf|non-fumeur / non-fumeuse|некурящий / некурящая": {
+      "acceptedRu": [
+        "некурящий / некурящая",
+        "некурящий",
+        "некурящая"
+      ],
+      "acceptedFr": [
+        "non-fumeur / non-fumeuse",
+        "non-fumeur",
+        "non-fumeuse"
+      ]
+    },
+    "A1 02.pdf|seul / seule|один; одинокий / одинокая": {
+      "acceptedRu": [
+        "один; одинокий / одинокая",
+        "один",
+        "одинокий",
+        "одинокая"
+      ],
+      "acceptedFr": [
+        "seul / seule",
+        "seul",
+        "seule"
+      ]
+    },
+    "A1 02.pdf|content / contente|довольный / довольная": {
+      "acceptedRu": [
+        "довольный / довольная",
+        "довольный",
+        "довольная"
+      ],
+      "acceptedFr": [
+        "content / contente",
+        "content",
+        "contente"
+      ]
+    },
+    "A1 02.pdf|en retard|с опозданием": {
+      "acceptedRu": [
+        "с опозданием"
+      ],
+      "acceptedFr": [
+        "en retard"
+      ]
+    },
+    "A1 02.pdf|triste|грустный": {
+      "acceptedRu": [
+        "грустный"
+      ],
+      "acceptedFr": [
+        "triste"
+      ]
+    },
+    "A1 02.pdf|désolé / désolée|сожалеющий; расстроенный": {
+      "acceptedRu": [
+        "сожалеющий; расстроенный",
+        "сожалеющий",
+        "расстроенный"
+      ],
+      "acceptedFr": [
+        "désolé / désolée",
+        "désolé",
+        "désolée"
+      ]
+    },
+    "A1 02.pdf|heureux / heureuse|счастливый / счастливая": {
+      "acceptedRu": [
+        "счастливый / счастливая",
+        "счастливый",
+        "счастливая"
+      ],
+      "acceptedFr": [
+        "heureux / heureuse",
+        "heureux",
+        "heureuse"
+      ]
+    },
+    "A1 02.pdf|en vacances|в отпуске; на каникулах": {
+      "acceptedRu": [
+        "в отпуске; на каникулах",
+        "в отпуске",
+        "на каникулах"
+      ],
+      "acceptedFr": [
+        "en vacances"
+      ]
+    },
+    "A1 02.pdf|partir|уезжать; уходить": {
+      "acceptedRu": [
+        "уезжать; уходить",
+        "уезжать",
+        "уходить"
+      ],
+      "acceptedFr": [
+        "partir"
+      ]
+    },
+    "A1 02.pdf|enrhumé / enrhumée|простуженный / простуженная": {
+      "acceptedRu": [
+        "простуженный / простуженная",
+        "простуженный",
+        "простуженная"
+      ],
+      "acceptedFr": [
+        "enrhumé / enrhumée",
+        "enrhumé",
+        "enrhumée"
+      ]
+    },
+    "A1 02.pdf|stressé / stressée|испытывающий стресс": {
+      "acceptedRu": [
+        "испытывающий стресс"
+      ],
+      "acceptedFr": [
+        "stressé / stressée",
+        "stressé",
+        "stressée"
+      ]
+    },
+    "A1 02.pdf|pressé / pressée|спешащий; торопящийся": {
+      "acceptedRu": [
+        "спешащий; торопящийся",
+        "спешащий",
+        "торопящийся"
+      ],
+      "acceptedFr": [
+        "pressé / pressée",
+        "pressé",
+        "pressée"
+      ]
+    },
+    "A1 02.pdf|chômage|безработица": {
+      "acceptedRu": [
+        "безработица"
+      ],
+      "acceptedFr": [
+        "chômage"
+      ]
+    },
+    "A1 03.pdf|regarder|смотреть": {
+      "acceptedRu": [
+        "смотреть"
+      ],
+      "acceptedFr": [
+        "regarder"
+      ]
+    },
+    "A1 03.pdf|professeur|преподаватель": {
+      "acceptedRu": [
+        "преподаватель"
+      ],
+      "acceptedFr": [
+        "professeur"
+      ]
+    },
+    "A1 03.pdf|bagages|багаж": {
+      "acceptedRu": [
+        "багаж"
+      ],
+      "acceptedFr": [
+        "bagages"
+      ]
+    },
+    "A1 03.pdf|femme|женщина; жена": {
+      "acceptedRu": [
+        "женщина; жена",
+        "женщина",
+        "жена"
+      ],
+      "acceptedFr": [
+        "femme"
+      ]
+    },
+    "A1 03.pdf|théâtre|театр": {
+      "acceptedRu": [
+        "театр"
+      ],
+      "acceptedFr": [
+        "théâtre"
+      ]
+    },
+    "A1 03.pdf|enfant|ребёнок": {
+      "acceptedRu": [
+        "ребёнок"
+      ],
+      "acceptedFr": [
+        "enfant"
+      ]
+    },
+    "A1 03.pdf|charmant / charmante|очаровательный / очаровательная": {
+      "acceptedRu": [
+        "очаровательный / очаровательная",
+        "очаровательный",
+        "очаровательная"
+      ],
+      "acceptedFr": [
+        "charmant / charmante",
+        "charmant",
+        "charmante"
+      ]
+    },
+    "A1 03.pdf|gentiment|любезно": {
+      "acceptedRu": [
+        "любезно"
+      ],
+      "acceptedFr": [
+        "gentiment"
+      ]
+    },
+    "A1 03.pdf|attendre|ждать": {
+      "acceptedRu": [
+        "ждать"
+      ],
+      "acceptedFr": [
+        "attendre"
+      ]
+    },
+    "A1 03.pdf|lampe|лампа": {
+      "acceptedRu": [
+        "лампа"
+      ],
+      "acceptedFr": [
+        "lampe"
+      ]
+    },
+    "A1 03.pdf|médecin|врач": {
+      "acceptedRu": [
+        "врач"
+      ],
+      "acceptedFr": [
+        "médecin"
+      ]
+    },
+    "A1 03.pdf|sans|без": {
+      "acceptedRu": [
+        "без"
+      ],
+      "acceptedFr": [
+        "sans"
+      ]
+    },
+    "A1 03.pdf|ensemble|вместе": {
+      "acceptedRu": [
+        "вместе"
+      ],
+      "acceptedFr": [
+        "ensemble"
+      ]
+    },
+    "A1 03.pdf|maire|мэр": {
+      "acceptedRu": [
+        "мэр"
+      ],
+      "acceptedFr": [
+        "maire"
+      ]
+    },
+    "A1 03.pdf|nerf|нерв": {
+      "acceptedRu": [
+        "нерв"
+      ],
+      "acceptedFr": [
+        "nerf"
+      ]
+    },
+    "A1 03.pdf|terre|земля": {
+      "acceptedRu": [
+        "земля"
+      ],
+      "acceptedFr": [
+        "terre"
+      ]
+    },
+    "A1 03.pdf|près|близко": {
+      "acceptedRu": [
+        "близко"
+      ],
+      "acceptedFr": [
+        "près"
+      ]
+    },
+    "A1 03.pdf|vert / verte|зелёный / зелёная": {
+      "acceptedRu": [
+        "зелёный / зелёная",
+        "зелёный",
+        "зелёная"
+      ],
+      "acceptedFr": [
+        "vert / verte",
+        "vert",
+        "verte"
+      ]
+    },
+    "A1 03.pdf|vers|к; по направлению к": {
+      "acceptedRu": [
+        "к; по направлению к",
+        "к",
+        "по направлению к"
+      ],
+      "acceptedFr": [
+        "vers"
+      ]
+    },
+    "A1 03.pdf|mère|мать": {
+      "acceptedRu": [
+        "мать"
+      ],
+      "acceptedFr": [
+        "mère"
+      ]
+    },
+    "A1 03.pdf|peine|боль; труд": {
+      "acceptedRu": [
+        "боль; труд",
+        "боль",
+        "труд"
+      ],
+      "acceptedFr": [
+        "peine"
+      ]
+    },
+    "A1 03.pdf|présenter|представлять": {
+      "acceptedRu": [
+        "представлять"
+      ],
+      "acceptedFr": [
+        "présenter"
+      ]
+    },
+    "A1 03.pdf|enchanté / enchantée|очень приятно": {
+      "acceptedRu": [
+        "очень приятно"
+      ],
+      "acceptedFr": [
+        "enchanté / enchantée",
+        "enchanté",
+        "enchantée"
+      ]
+    },
+    "A1 03.pdf|intéressant / intéressante|интересный / интересная": {
+      "acceptedRu": [
+        "интересный / интересная",
+        "интересный",
+        "интересная"
+      ],
+      "acceptedFr": [
+        "intéressant / intéressante",
+        "intéressant",
+        "intéressante"
+      ]
+    },
+    "A1 03.pdf|université|университет": {
+      "acceptedRu": [
+        "университет"
+      ],
+      "acceptedFr": [
+        "université"
+      ]
+    },
+    "A1 03.pdf|année|год": {
+      "acceptedRu": [
+        "год"
+      ],
+      "acceptedFr": [
+        "année"
+      ]
+    },
+    "A1 03.pdf|été|лето": {
+      "acceptedRu": [
+        "лето"
+      ],
+      "acceptedFr": [
+        "été"
+      ]
+    },
+    "A1 03.pdf|chez|у; к кому-либо": {
+      "acceptedRu": [
+        "у; к кому-либо",
+        "у",
+        "к кому-либо"
+      ],
+      "acceptedFr": [
+        "chez"
+      ]
+    },
+    "A1 03.pdf|éléphant|слон": {
+      "acceptedRu": [
+        "слон"
+      ],
+      "acceptedFr": [
+        "éléphant"
+      ]
+    },
+    "A1 03.pdf|beauté|красота": {
+      "acceptedRu": [
+        "красота"
+      ],
+      "acceptedFr": [
+        "beauté"
+      ]
+    },
+    "A1 03.pdf|crêpe|блин": {
+      "acceptedRu": [
+        "блин"
+      ],
+      "acceptedFr": [
+        "crêpe"
+      ]
+    },
+    "A1 03.pdf|chanter|петь": {
+      "acceptedRu": [
+        "петь"
+      ],
+      "acceptedFr": [
+        "chanter"
+      ]
+    },
+    "A1 03.pdf|livre|книга": {
+      "acceptedRu": [
+        "книга"
+      ],
+      "acceptedFr": [
+        "livre"
+      ]
+    },
+    "A1 03.pdf|chien|собака": {
+      "acceptedRu": [
+        "собака"
+      ],
+      "acceptedFr": [
+        "chien"
+      ]
+    },
+    "A1 03.pdf|dossier|папка; дело": {
+      "acceptedRu": [
+        "папка; дело",
+        "папка",
+        "дело"
+      ],
+      "acceptedFr": [
+        "dossier"
+      ]
+    },
+    "A1 03.pdf|classe|класс": {
+      "acceptedRu": [
+        "класс"
+      ],
+      "acceptedFr": [
+        "classe"
+      ]
+    },
+    "A1 03.pdf|bar|бар": {
+      "acceptedRu": [
+        "бар"
+      ],
+      "acceptedFr": [
+        "bar"
+      ]
+    },
+    "A1 03.pdf|glace|мороженое; лёд": {
+      "acceptedRu": [
+        "мороженое; лёд",
+        "мороженое",
+        "лёд"
+      ],
+      "acceptedFr": [
+        "glace"
+      ]
+    },
+    "A1 03.pdf|chanson|песня": {
+      "acceptedRu": [
+        "песня"
+      ],
+      "acceptedFr": [
+        "chanson"
+      ]
+    },
+    "A1 03.pdf|japonais / japonaise|японский; японец / японка": {
+      "acceptedRu": [
+        "японский; японец / японка",
+        "японский",
+        "японец",
+        "японка"
+      ],
+      "acceptedFr": [
+        "japonais / japonaise",
+        "japonais",
+        "japonaise"
+      ]
+    },
+    "A1 03.pdf|riche|богатый": {
+      "acceptedRu": [
+        "богатый"
+      ],
+      "acceptedFr": [
+        "riche"
+      ]
+    },
+    "A1 03.pdf|italien / italienne|итальянский; итальянец / итальянка": {
+      "acceptedRu": [
+        "итальянский; итальянец / итальянка",
+        "итальянский",
+        "итальянец",
+        "итальянка"
+      ],
+      "acceptedFr": [
+        "italien / italienne",
+        "italien",
+        "italienne"
+      ]
+    },
+    "A1 03.pdf|bilingue|двуязычный": {
+      "acceptedRu": [
+        "двуязычный"
+      ],
+      "acceptedFr": [
+        "bilingue"
+      ]
+    },
+    "A1 03.pdf|bon / bonne|хороший / хорошая": {
+      "acceptedRu": [
+        "хороший / хорошая",
+        "хороший",
+        "хорошая"
+      ],
+      "acceptedFr": [
+        "bon / bonne",
+        "bon",
+        "bonne"
+      ]
+    },
+    "A1 03.pdf|mauvais / mauvaise|плохой / плохая": {
+      "acceptedRu": [
+        "плохой / плохая",
+        "плохой",
+        "плохая"
+      ],
+      "acceptedFr": [
+        "mauvais / mauvaise",
+        "mauvais",
+        "mauvaise"
+      ]
+    },
+    "A1 03.pdf|chambre|комната": {
+      "acceptedRu": [
+        "комната"
+      ],
+      "acceptedFr": [
+        "chambre"
+      ]
+    },
+    "A1 03.pdf|lit|кровать": {
+      "acceptedRu": [
+        "кровать"
+      ],
+      "acceptedFr": [
+        "lit"
+      ]
+    },
+    "A1 03.pdf|confortable|удобный": {
+      "acceptedRu": [
+        "удобный"
+      ],
+      "acceptedFr": [
+        "confortable"
+      ]
+    },
+    "A1 03.pdf|eau|вода": {
+      "acceptedRu": [
+        "вода"
+      ],
+      "acceptedFr": [
+        "eau"
+      ]
+    },
+    "A1 03.pdf|chaud / chaude|горячий / горячая": {
+      "acceptedRu": [
+        "горячий / горячая",
+        "горячий",
+        "горячая"
+      ],
+      "acceptedFr": [
+        "chaud / chaude",
+        "chaud",
+        "chaude"
+      ]
+    },
+    "A1 03.pdf|martien / martienne|марсианин / марсианка": {
+      "acceptedRu": [
+        "марсианин / марсианка",
+        "марсианин",
+        "марсианка"
+      ],
+      "acceptedFr": [
+        "martien / martienne",
+        "martien",
+        "martienne"
+      ]
+    },
+    "A1 03.pdf|vénusien / vénusienne|житель / жительница Венеры": {
+      "acceptedRu": [
+        "житель / жительница Венеры",
+        "житель Венеры",
+        "жительница Венеры"
+      ],
+      "acceptedFr": [
+        "vénusien / vénusienne",
+        "vénusien",
+        "vénusienne"
+      ]
+    },
+    "A1 03.pdf|blanc / blanche|белый / белая": {
+      "acceptedRu": [
+        "белый / белая",
+        "белый",
+        "белая"
+      ],
+      "acceptedFr": [
+        "blanc / blanche",
+        "blanc",
+        "blanche"
+      ]
+    },
+    "A1 03.pdf|film|фильм": {
+      "acceptedRu": [
+        "фильм"
+      ],
+      "acceptedFr": [
+        "film"
+      ]
+    },
+    "A1 03.pdf|histoire|история": {
+      "acceptedRu": [
+        "история"
+      ],
+      "acceptedFr": [
+        "histoire"
+      ]
+    },
+    "A1 03.pdf|acteur / actrice|актёр / актриса": {
+      "acceptedRu": [
+        "актёр / актриса",
+        "актёр",
+        "актриса"
+      ],
+      "acceptedFr": [
+        "acteur / actrice",
+        "acteur",
+        "actrice"
+      ]
+    },
+    "A1 03.pdf|sujet|тема; сюжет": {
+      "acceptedRu": [
+        "тема; сюжет",
+        "тема",
+        "сюжет"
+      ],
+      "acceptedFr": [
+        "sujet"
+      ]
+    },
+    "A1 03.pdf|sévère|строгий": {
+      "acceptedRu": [
+        "строгий"
+      ],
+      "acceptedFr": [
+        "sévère"
+      ]
+    },
+    "A1 03.pdf|difficile|трудный": {
+      "acceptedRu": [
+        "трудный"
+      ],
+      "acceptedFr": [
+        "difficile"
+      ]
+    },
+    "A1 03.pdf|voyage|путешествие": {
+      "acceptedRu": [
+        "путешествие"
+      ],
+      "acceptedFr": [
+        "voyage"
+      ]
+    },
+    "A1 03.pdf|nationalité|национальность": {
+      "acceptedRu": [
+        "национальность"
+      ],
+      "acceptedFr": [
+        "nationalité"
+      ]
+    },
+    "A1 03.pdf|profession|профессия": {
+      "acceptedRu": [
+        "профессия"
+      ],
+      "acceptedFr": [
+        "profession"
+      ]
+    },
+    "A1 03.pdf|chimiste|химик": {
+      "acceptedRu": [
+        "химик"
+      ],
+      "acceptedFr": [
+        "chimiste"
+      ]
+    },
+    "A1 03.pdf|anglais / anglaise|английский; англичанин / англичанка": {
+      "acceptedRu": [
+        "английский; англичанин / англичанка",
+        "английский",
+        "англичанин",
+        "англичанка"
+      ],
+      "acceptedFr": [
+        "anglais / anglaise",
+        "anglais",
+        "anglaise"
+      ]
+    },
+    "A1 03.pdf|chinois / chinoise|китайский; китаец / китаянка": {
+      "acceptedRu": [
+        "китайский; китаец / китаянка",
+        "китайский",
+        "китаец",
+        "китаянка"
+      ],
+      "acceptedFr": [
+        "chinois / chinoise",
+        "chinois",
+        "chinoise"
+      ]
+    },
+    "A1 03.pdf|astronaute|астронавт": {
+      "acceptedRu": [
+        "астронавт"
+      ],
+      "acceptedFr": [
+        "astronaute"
+      ]
+    },
+    "A1 03.pdf|inventeur / inventrice|изобретатель / изобретательница": {
+      "acceptedRu": [
+        "изобретатель / изобретательница",
+        "изобретатель",
+        "изобретательница"
+      ],
+      "acceptedFr": [
+        "inventeur / inventrice",
+        "inventeur",
+        "inventrice"
+      ]
+    },
+    "A1 03.pdf|interprète|переводчик": {
+      "acceptedRu": [
+        "переводчик"
+      ],
+      "acceptedFr": [
+        "interprète"
+      ]
+    },
+    "A1 03.pdf|journaliste|журналист": {
+      "acceptedRu": [
+        "журналист"
+      ],
+      "acceptedFr": [
+        "journaliste"
+      ]
+    },
+    "A1 03.pdf|présentateur / présentatrice|ведущий / ведущая": {
+      "acceptedRu": [
+        "ведущий / ведущая",
+        "ведущий",
+        "ведущая"
+      ],
+      "acceptedFr": [
+        "présentateur / présentatrice",
+        "présentateur",
+        "présentatrice"
+      ]
+    },
+    "A1 03.pdf|mécanicien / mécanicienne|механик": {
+      "acceptedRu": [
+        "механик"
+      ],
+      "acceptedFr": [
+        "mécanicien / mécanicienne",
+        "mécanicien",
+        "mécanicienne"
+      ]
+    },
+    "A1 03.pdf|infirmier / infirmière|медбрат / медсестра": {
+      "acceptedRu": [
+        "медбрат / медсестра",
+        "медбрат",
+        "медсестра"
+      ],
+      "acceptedFr": [
+        "infirmier / infirmière",
+        "infirmier",
+        "infirmière"
+      ]
+    },
+    "A1 03.pdf|secrétaire|секретарь": {
+      "acceptedRu": [
+        "секретарь"
+      ],
+      "acceptedFr": [
+        "secrétaire"
+      ]
+    },
+    "A1 04.pdf|heure|час; время": {
+      "acceptedRu": [
+        "час; время",
+        "час",
+        "время"
+      ],
+      "acceptedFr": [
+        "heure"
+      ]
+    },
+    "A1 04.pdf|œil|глаз": {
+      "acceptedRu": [
+        "глаз"
+      ],
+      "acceptedFr": [
+        "œil"
+      ]
+    },
+    "A1 04.pdf|fleur|цветок": {
+      "acceptedRu": [
+        "цветок"
+      ],
+      "acceptedFr": [
+        "fleur"
+      ]
+    },
+    "A1 04.pdf|leur / leurs|их; им": {
+      "acceptedRu": [
+        "их; им",
+        "их",
+        "им"
+      ],
+      "acceptedFr": [
+        "leur / leurs",
+        "leur",
+        "leurs"
+      ]
+    },
+    "A1 04.pdf|couleur|цвет": {
+      "acceptedRu": [
+        "цвет"
+      ],
+      "acceptedFr": [
+        "couleur"
+      ]
+    },
+    "A1 04.pdf|merveilleux / merveilleuse|чудесный / чудесная": {
+      "acceptedRu": [
+        "чудесный / чудесная",
+        "чудесный",
+        "чудесная"
+      ],
+      "acceptedFr": [
+        "merveilleux / merveilleuse",
+        "merveilleux",
+        "merveilleuse"
+      ]
+    },
+    "A1 04.pdf|pluriel|множественное число": {
+      "acceptedRu": [
+        "множественное число"
+      ],
+      "acceptedFr": [
+        "pluriel"
+      ]
+    },
+    "A1 04.pdf|singulier|единственное число": {
+      "acceptedRu": [
+        "единственное число"
+      ],
+      "acceptedFr": [
+        "singulier"
+      ]
+    },
+    "A1 04.pdf|cinéma|кинотеатр; кино": {
+      "acceptedRu": [
+        "кинотеатр; кино",
+        "кинотеатр",
+        "кино"
+      ],
+      "acceptedFr": [
+        "cinéma"
+      ]
+    },
+    "A1 04.pdf|restaurant|ресторан": {
+      "acceptedRu": [
+        "ресторан"
+      ],
+      "acceptedFr": [
+        "restaurant"
+      ]
+    },
+    "A1 04.pdf|jeune|молодой": {
+      "acceptedRu": [
+        "молодой"
+      ],
+      "acceptedFr": [
+        "jeune"
+      ]
+    },
+    "A1 04.pdf|lycéen / lycéenne|старшеклассник / старшеклассница": {
+      "acceptedRu": [
+        "старшеклассник / старшеклассница",
+        "старшеклассник",
+        "старшеклассница"
+      ],
+      "acceptedFr": [
+        "lycéen / lycéenne",
+        "lycéen",
+        "lycéenne"
+      ]
+    },
+    "A1 04.pdf|intelligent / intelligente|умный / умная": {
+      "acceptedRu": [
+        "умный / умная",
+        "умный",
+        "умная"
+      ],
+      "acceptedFr": [
+        "intelligent / intelligente",
+        "intelligent",
+        "intelligente"
+      ]
+    },
+    "A1 04.pdf|amusant / amusante|забавный / забавная": {
+      "acceptedRu": [
+        "забавный / забавная",
+        "забавный",
+        "забавная"
+      ],
+      "acceptedFr": [
+        "amusant / amusante",
+        "amusant",
+        "amusante"
+      ]
+    },
+    "A1 04.pdf|breton / bretonne|бретонец / бретонка": {
+      "acceptedRu": [
+        "бретонец / бретонка",
+        "бретонец",
+        "бретонка"
+      ],
+      "acceptedFr": [
+        "breton / bretonne",
+        "breton",
+        "bretonne"
+      ]
+    },
+    "A1 04.pdf|mignon / mignonne|милый / милая": {
+      "acceptedRu": [
+        "милый / милая",
+        "милый",
+        "милая"
+      ],
+      "acceptedFr": [
+        "mignon / mignonne",
+        "mignon",
+        "mignonne"
+      ]
+    },
+    "A1 04.pdf|étranger / étrangère|иностранец / иностранка; иностранный": {
+      "acceptedRu": [
+        "иностранец / иностранка; иностранный",
+        "иностранец",
+        "иностранка",
+        "иностранный"
+      ],
+      "acceptedFr": [
+        "étranger / étrangère",
+        "étranger",
+        "étrangère"
+      ]
+    },
+    "A1 04.pdf|boulanger / boulangère|пекарь": {
+      "acceptedRu": [
+        "пекарь"
+      ],
+      "acceptedFr": [
+        "boulanger / boulangère",
+        "boulanger",
+        "boulangère"
+      ]
+    },
+    "A1 04.pdf|serveur / serveuse|официант / официантка": {
+      "acceptedRu": [
+        "официант / официантка",
+        "официант",
+        "официантка"
+      ],
+      "acceptedFr": [
+        "serveur / serveuse",
+        "serveur",
+        "serveuse"
+      ]
+    },
+    "A1 04.pdf|menteur / menteuse|лжец / лгунья": {
+      "acceptedRu": [
+        "лжец / лгунья",
+        "лжец",
+        "лгунья"
+      ],
+      "acceptedFr": [
+        "menteur / menteuse",
+        "menteur",
+        "menteuse"
+      ]
+    },
+    "A1 04.pdf|éditeur / éditrice|редактор; издатель / издательница": {
+      "acceptedRu": [
+        "редактор; издатель / издательница",
+        "редактор",
+        "издатель",
+        "издательница"
+      ],
+      "acceptedFr": [
+        "éditeur / éditrice",
+        "éditeur",
+        "éditrice"
+      ]
+    },
+    "A1 04.pdf|agriculteur / agricultrice|фермер / фермерша": {
+      "acceptedRu": [
+        "фермер / фермерша",
+        "фермер",
+        "фермерша"
+      ],
+      "acceptedFr": [
+        "agriculteur / agricultrice",
+        "agriculteur",
+        "agricultrice"
+      ]
+    },
+    "A1 04.pdf|chanteur / chanteuse|певец / певица": {
+      "acceptedRu": [
+        "певец / певица",
+        "певец",
+        "певица"
+      ],
+      "acceptedFr": [
+        "chanteur / chanteuse",
+        "chanteur",
+        "chanteuse"
+      ]
+    },
+    "A1 04.pdf|écrivain|писатель / писательница": {
+      "acceptedRu": [
+        "писатель / писательница",
+        "писатель",
+        "писательница"
+      ],
+      "acceptedFr": [
+        "écrivain"
+      ]
+    },
+    "A1 04.pdf|auteur / autrice|автор / авторка": {
+      "acceptedRu": [
+        "автор / авторка",
+        "автор",
+        "авторка"
+      ],
+      "acceptedFr": [
+        "auteur / autrice",
+        "auteur",
+        "autrice"
+      ]
+    },
+    "A1 04.pdf|gros / grosse|толстый / толстая; крупный": {
+      "acceptedRu": [
+        "толстый / толстая; крупный",
+        "толстый",
+        "толстая",
+        "крупный"
+      ],
+      "acceptedFr": [
+        "gros / grosse",
+        "gros",
+        "grosse"
+      ]
+    },
+    "A1 04.pdf|vieux / vieille|старый / старая": {
+      "acceptedRu": [
+        "старый / старая",
+        "старый",
+        "старая"
+      ],
+      "acceptedFr": [
+        "vieux / vieille",
+        "vieux",
+        "vieille"
+      ]
+    },
+    "A1 04.pdf|poissonnier / poissonnière|продавец / продавщица рыбы": {
+      "acceptedRu": [
+        "продавец / продавщица рыбы",
+        "продавец рыбы",
+        "продавщица рыбы"
+      ],
+      "acceptedFr": [
+        "poissonnier / poissonnière",
+        "poissonnier",
+        "poissonnière"
+      ]
+    },
+    "A1 04.pdf|danseur / danseuse|танцор / танцовщица": {
+      "acceptedRu": [
+        "танцор / танцовщица",
+        "танцор",
+        "танцовщица"
+      ],
+      "acceptedFr": [
+        "danseur / danseuse",
+        "danseur",
+        "danseuse"
+      ]
+    },
+    "A1 04.pdf|instituteur / institutrice|учитель / учительница начальной школы": {
+      "acceptedRu": [
+        "учитель / учительница начальной школы",
+        "учитель начальной школы",
+        "учительница начальной школы"
+      ],
+      "acceptedFr": [
+        "instituteur / institutrice",
+        "instituteur",
+        "institutrice"
+      ]
+    },
+    "A1 04.pdf|coréen / coréenne|кореец / кореянка; корейский": {
+      "acceptedRu": [
+        "кореец / кореянка; корейский",
+        "кореец",
+        "кореянка",
+        "корейский"
+      ],
+      "acceptedFr": [
+        "coréen / coréenne",
+        "coréen",
+        "coréenne"
+      ]
+    },
+    "A1 04.pdf|musicien / musicienne|музыкант": {
+      "acceptedRu": [
+        "музыкант"
+      ],
+      "acceptedFr": [
+        "musicien / musicienne",
+        "musicien",
+        "musicienne"
+      ]
+    },
+    "A1 04.pdf|chilien / chilienne|чилиец / чилийка": {
+      "acceptedRu": [
+        "чилиец / чилийка",
+        "чилиец",
+        "чилийка"
+      ],
+      "acceptedFr": [
+        "chilien / chilienne",
+        "chilien",
+        "chilienne"
+      ]
+    },
+    "A1 04.pdf|souriant / souriante|улыбчивый / улыбчивая": {
+      "acceptedRu": [
+        "улыбчивый / улыбчивая",
+        "улыбчивый",
+        "улыбчивая"
+      ],
+      "acceptedFr": [
+        "souriant / souriante",
+        "souriant",
+        "souriante"
+      ]
+    },
+    "A1 04.pdf|curieux / curieuse|любопытный / любопытная": {
+      "acceptedRu": [
+        "любопытный / любопытная",
+        "любопытный",
+        "любопытная"
+      ],
+      "acceptedFr": [
+        "curieux / curieuse",
+        "curieux",
+        "curieuse"
+      ]
+    },
+    "A1 04.pdf|rapide|быстрый": {
+      "acceptedRu": [
+        "быстрый"
+      ],
+      "acceptedFr": [
+        "rapide"
+      ]
+    },
+    "A1 04.pdf|précis / précise|точный / точная": {
+      "acceptedRu": [
+        "точный / точная",
+        "точный",
+        "точная"
+      ],
+      "acceptedFr": [
+        "précis / précise",
+        "précis",
+        "précise"
+      ]
+    },
+    "A1 04.pdf|patient / patiente|терпеливый / терпеливая": {
+      "acceptedRu": [
+        "терпеливый / терпеливая",
+        "терпеливый",
+        "терпеливая"
+      ],
+      "acceptedFr": [
+        "patient / patiente",
+        "patient",
+        "patiente"
+      ]
+    },
+    "A1 04.pdf|dynamique|энергичный; динамичный": {
+      "acceptedRu": [
+        "энергичный; динамичный",
+        "энергичный",
+        "динамичный"
+      ],
+      "acceptedFr": [
+        "dynamique"
+      ]
+    },
+    "A1 04.pdf|gai / gaie|весёлый / весёлая": {
+      "acceptedRu": [
+        "весёлый / весёлая",
+        "весёлый",
+        "весёлая"
+      ],
+      "acceptedFr": [
+        "gai / gaie",
+        "gai",
+        "gaie"
+      ]
+    },
+    "A1 04.pdf|chirurgien / chirurgienne|хирург": {
+      "acceptedRu": [
+        "хирург"
+      ],
+      "acceptedFr": [
+        "chirurgien / chirurgienne",
+        "chirurgien",
+        "chirurgienne"
+      ]
+    },
+    "A1 04.pdf|vendeur / vendeuse|продавец / продавщица": {
+      "acceptedRu": [
+        "продавец / продавщица",
+        "продавец",
+        "продавщица"
+      ],
+      "acceptedFr": [
+        "vendeur / vendeuse",
+        "vendeur",
+        "vendeuse"
+      ]
+    },
+    "A1 04.pdf|facteur / factrice|почтальон": {
+      "acceptedRu": [
+        "почтальон"
+      ],
+      "acceptedFr": [
+        "facteur / factrice",
+        "facteur",
+        "factrice"
+      ]
+    },
+    "A1 04.pdf|restaurateur / restauratrice|ресторатор": {
+      "acceptedRu": [
+        "ресторатор"
+      ],
+      "acceptedFr": [
+        "restaurateur / restauratrice",
+        "restaurateur",
+        "restauratrice"
+      ]
+    },
+    "A1 04.pdf|nuit|ночь": {
+      "acceptedRu": [
+        "ночь"
+      ],
+      "acceptedFr": [
+        "nuit"
+      ]
+    },
+    "A1 04.pdf|herbe|трава": {
+      "acceptedRu": [
+        "трава"
+      ],
+      "acceptedFr": [
+        "herbe"
+      ]
+    },
+    "A1 04.pdf|neige|снег": {
+      "acceptedRu": [
+        "снег"
+      ],
+      "acceptedFr": [
+        "neige"
+      ]
+    },
+    "A1 04.pdf|noir / noire|чёрный / чёрная": {
+      "acceptedRu": [
+        "чёрный / чёрная",
+        "чёрный",
+        "чёрная"
+      ],
+      "acceptedFr": [
+        "noir / noire",
+        "noir",
+        "noire"
+      ]
+    },
+    "A1 04.pdf|premier ministre|премьер-министр": {
+      "acceptedRu": [
+        "премьер-министр"
+      ],
+      "acceptedFr": [
+        "premier ministre"
+      ]
+    },
+    "A1 04.pdf|voisin / voisine|сосед / соседка": {
+      "acceptedRu": [
+        "сосед / соседка",
+        "сосед",
+        "соседка"
+      ],
+      "acceptedFr": [
+        "voisin / voisine",
+        "voisin",
+        "voisine"
+      ]
+    },
+    "A1 04.pdf|qualité|достоинство; качество": {
+      "acceptedRu": [
+        "достоинство; качество",
+        "достоинство",
+        "качество"
+      ],
+      "acceptedFr": [
+        "qualité"
+      ]
+    },
+    "A1 04.pdf|défaut|недостаток": {
+      "acceptedRu": [
+        "недостаток"
+      ],
+      "acceptedFr": [
+        "défaut"
+      ]
+    },
+    "A1 05.pdf|bière|пиво": {
+      "acceptedRu": [
+        "пиво"
+      ],
+      "acceptedFr": [
+        "bière"
+      ]
+    },
+    "A1 05.pdf|deux|два": {
+      "acceptedRu": [
+        "два"
+      ],
+      "acceptedFr": [
+        "deux"
+      ]
+    },
+    "A1 05.pdf|pied|ступня; нога": {
+      "acceptedRu": [
+        "ступня; нога",
+        "ступня",
+        "нога"
+      ],
+      "acceptedFr": [
+        "pied"
+      ]
+    },
+    "A1 05.pdf|neuf / neuve|новый / новая; девять": {
+      "acceptedRu": [
+        "новый / новая",
+        "новый",
+        "новая"
+      ],
+      "acceptedFr": [
+        "neuf / neuve",
+        "neuf",
+        "neuve"
+      ],
+      "russian": "новый / новая"
+    },
+    "A1 05.pdf|cette|эта": {
+      "acceptedRu": [
+        "эта"
+      ],
+      "acceptedFr": [
+        "cette"
+      ]
+    },
+    "A1 05.pdf|jeu|игра": {
+      "acceptedRu": [
+        "игра"
+      ],
+      "acceptedFr": [
+        "jeu"
+      ]
+    },
+    "A1 05.pdf|dé|игральная кость": {
+      "acceptedRu": [
+        "игральная кость"
+      ],
+      "acceptedFr": [
+        "dé"
+      ]
+    },
+    "A1 05.pdf|joueur / joueuse|игрок": {
+      "acceptedRu": [
+        "игрок"
+      ],
+      "acceptedFr": [
+        "joueur / joueuse",
+        "joueur",
+        "joueuse"
+      ]
+    },
+    "A1 05.pdf|américain / américaine|американец / американка; американский": {
+      "acceptedRu": [
+        "американец / американка; американский",
+        "американец",
+        "американка",
+        "американский"
+      ],
+      "acceptedFr": [
+        "américain / américaine",
+        "américain",
+        "américaine"
+      ]
+    },
+    "A1 05.pdf|brésilien / brésilienne|бразилец / бразильянка": {
+      "acceptedRu": [
+        "бразилец / бразильянка",
+        "бразилец",
+        "бразильянка"
+      ],
+      "acceptedFr": [
+        "brésilien / brésilienne",
+        "brésilien",
+        "brésilienne"
+      ]
+    },
+    "A1 05.pdf|danseuse|танцовщица": {
+      "acceptedRu": [
+        "танцовщица"
+      ],
+      "acceptedFr": [
+        "danseuse"
+      ]
+    },
+    "A1 05.pdf|célèbre|знаменитый": {
+      "acceptedRu": [
+        "знаменитый"
+      ],
+      "acceptedFr": [
+        "célèbre"
+      ]
+    },
+    "A1 05.pdf|distrait / distraite|рассеянный / рассеянная": {
+      "acceptedRu": [
+        "рассеянный / рассеянная",
+        "рассеянный",
+        "рассеянная"
+      ],
+      "acceptedFr": [
+        "distrait / distraite",
+        "distrait",
+        "distraite"
+      ]
+    },
+    "A1 05.pdf|malheureux / malheureuse|несчастный / несчастная": {
+      "acceptedRu": [
+        "несчастный / несчастная",
+        "несчастный",
+        "несчастная"
+      ],
+      "acceptedFr": [
+        "malheureux / malheureuse",
+        "malheureux",
+        "malheureuse"
+      ]
+    },
+    "A1 05.pdf|musclé / musclée|мускулистый / мускулистая": {
+      "acceptedRu": [
+        "мускулистый / мускулистая",
+        "мускулистый",
+        "мускулистая"
+      ],
+      "acceptedFr": [
+        "musclé / musclée",
+        "musclé",
+        "musclée"
+      ]
+    },
+    "A1 05.pdf|courageux / courageuse|смелый / смелая": {
+      "acceptedRu": [
+        "смелый / смелая",
+        "смелый",
+        "смелая"
+      ],
+      "acceptedFr": [
+        "courageux / courageuse",
+        "courageux",
+        "courageuse"
+      ]
+    },
+    "A1 05.pdf|savant / savante|учёный / учёная": {
+      "acceptedRu": [
+        "учёный / учёная",
+        "учёный",
+        "учёная"
+      ],
+      "acceptedFr": [
+        "savant / savante",
+        "savant",
+        "savante"
+      ]
+    },
+    "A1 05.pdf|princesse|принцесса": {
+      "acceptedRu": [
+        "принцесса"
+      ],
+      "acceptedFr": [
+        "princesse"
+      ]
+    },
+    "A1 05.pdf|basketteur / basketteuse|баскетболист / баскетболистка": {
+      "acceptedRu": [
+        "баскетболист / баскетболистка",
+        "баскетболист",
+        "баскетболистка"
+      ],
+      "acceptedFr": [
+        "basketteur / basketteuse",
+        "basketteur",
+        "basketteuse"
+      ]
+    },
+    "A1 05.pdf|jaloux / jalouse|ревнивый / ревнивая": {
+      "acceptedRu": [
+        "ревнивый / ревнивая",
+        "ревнивый",
+        "ревнивая"
+      ],
+      "acceptedFr": [
+        "jaloux / jalouse",
+        "jaloux",
+        "jalouse"
+      ]
+    },
+    "A1 05.pdf|allemand / allemande|немец / немка; немецкий": {
+      "acceptedRu": [
+        "немец / немка; немецкий",
+        "немец",
+        "немка",
+        "немецкий"
+      ],
+      "acceptedFr": [
+        "allemand / allemande",
+        "allemand",
+        "allemande"
+      ]
+    },
+    "A1 05.pdf|russe|русский / русская": {
+      "acceptedRu": [
+        "русский / русская",
+        "русский",
+        "русская"
+      ],
+      "acceptedFr": [
+        "russe"
+      ]
+    },
+    "A1 05.pdf|zéro|ноль": {
+      "acceptedRu": [
+        "ноль"
+      ],
+      "acceptedFr": [
+        "zéro"
+      ]
+    },
+    "A1 05.pdf|un|один": {
+      "acceptedRu": [
+        "один"
+      ],
+      "acceptedFr": [
+        "un"
+      ]
+    },
+    "A1 05.pdf|trois|три": {
+      "acceptedRu": [
+        "три"
+      ],
+      "acceptedFr": [
+        "trois"
+      ]
+    },
+    "A1 05.pdf|quatre|четыре": {
+      "acceptedRu": [
+        "четыре"
+      ],
+      "acceptedFr": [
+        "quatre"
+      ]
+    },
+    "A1 05.pdf|cinq|пять": {
+      "acceptedRu": [
+        "пять"
+      ],
+      "acceptedFr": [
+        "cinq"
+      ]
+    },
+    "A1 05.pdf|six|шесть": {
+      "acceptedRu": [
+        "шесть"
+      ],
+      "acceptedFr": [
+        "six"
+      ]
+    },
+    "A1 05.pdf|sept|семь": {
+      "acceptedRu": [
+        "семь"
+      ],
+      "acceptedFr": [
+        "sept"
+      ]
+    },
+    "A1 05.pdf|huit|восемь": {
+      "acceptedRu": [
+        "восемь"
+      ],
+      "acceptedFr": [
+        "huit"
+      ]
+    },
+    "A1 05.pdf|neuf|девять": {
+      "acceptedRu": [
+        "девять"
+      ],
+      "acceptedFr": [
+        "neuf"
+      ]
+    },
+    "A1 05.pdf|dix|десять": {
+      "acceptedRu": [
+        "десять"
+      ],
+      "acceptedFr": [
+        "dix"
+      ]
+    },
+    "A1 05.pdf|onze|одиннадцать": {
+      "acceptedRu": [
+        "одиннадцать"
+      ],
+      "acceptedFr": [
+        "onze"
+      ]
+    },
+    "A1 05.pdf|douze|двенадцать": {
+      "acceptedRu": [
+        "двенадцать"
+      ],
+      "acceptedFr": [
+        "douze"
+      ]
+    },
+    "A1 05.pdf|treize|тринадцать": {
+      "acceptedRu": [
+        "тринадцать"
+      ],
+      "acceptedFr": [
+        "treize"
+      ]
+    },
+    "A1 05.pdf|quatorze|четырнадцать": {
+      "acceptedRu": [
+        "четырнадцать"
+      ],
+      "acceptedFr": [
+        "quatorze"
+      ]
+    },
+    "A1 05.pdf|quinze|пятнадцать": {
+      "acceptedRu": [
+        "пятнадцать"
+      ],
+      "acceptedFr": [
+        "quinze"
+      ]
+    },
+    "A1 05.pdf|seize|шестнадцать": {
+      "acceptedRu": [
+        "шестнадцать"
+      ],
+      "acceptedFr": [
+        "seize"
+      ]
+    },
+    "A1 05.pdf|dix-sept|семнадцать": {
+      "acceptedRu": [
+        "семнадцать"
+      ],
+      "acceptedFr": [
+        "dix-sept"
+      ]
+    },
+    "A1 05.pdf|dix-huit|восемнадцать": {
+      "acceptedRu": [
+        "восемнадцать"
+      ],
+      "acceptedFr": [
+        "dix-huit"
+      ]
+    },
+    "A1 05.pdf|dix-neuf|девятнадцать": {
+      "acceptedRu": [
+        "девятнадцать"
+      ],
+      "acceptedFr": [
+        "dix-neuf"
+      ]
+    },
+    "A1 05.pdf|vingt|двадцать": {
+      "acceptedRu": [
+        "двадцать"
+      ],
+      "acceptedFr": [
+        "vingt"
+      ]
+    },
+    "A1 05.pdf|vingt et un|двадцать один": {
+      "acceptedRu": [
+        "двадцать один"
+      ],
+      "acceptedFr": [
+        "vingt et un"
+      ]
+    },
+    "A1 05.pdf|vingt-deux|двадцать два": {
+      "acceptedRu": [
+        "двадцать два"
+      ],
+      "acceptedFr": [
+        "vingt-deux"
+      ]
+    },
+    "A1 05.pdf|vingt-trois|двадцать три": {
+      "acceptedRu": [
+        "двадцать три"
+      ],
+      "acceptedFr": [
+        "vingt-trois"
+      ]
+    },
+    "A1 05.pdf|vingt-quatre|двадцать четыре": {
+      "acceptedRu": [
+        "двадцать четыре"
+      ],
+      "acceptedFr": [
+        "vingt-quatre"
+      ]
+    },
+    "A1 05.pdf|vingt-cinq|двадцать пять": {
+      "acceptedRu": [
+        "двадцать пять"
+      ],
+      "acceptedFr": [
+        "vingt-cinq"
+      ]
+    },
+    "A1 05.pdf|vingt-six|двадцать шесть": {
+      "acceptedRu": [
+        "двадцать шесть"
+      ],
+      "acceptedFr": [
+        "vingt-six"
+      ]
+    },
+    "A1 05.pdf|vingt-sept|двадцать семь": {
+      "acceptedRu": [
+        "двадцать семь"
+      ],
+      "acceptedFr": [
+        "vingt-sept"
+      ]
+    },
+    "A1 05.pdf|vingt-huit|двадцать восемь": {
+      "acceptedRu": [
+        "двадцать восемь"
+      ],
+      "acceptedFr": [
+        "vingt-huit"
+      ]
+    },
+    "A1 05.pdf|vingt-neuf|двадцать девять": {
+      "acceptedRu": [
+        "двадцать девять"
+      ],
+      "acceptedFr": [
+        "vingt-neuf"
+      ]
+    },
+    "A1 05.pdf|trente|тридцать": {
+      "acceptedRu": [
+        "тридцать"
+      ],
+      "acceptedFr": [
+        "trente"
+      ]
+    },
+    "A1 05.pdf|trente et un|тридцать один": {
+      "acceptedRu": [
+        "тридцать один"
+      ],
+      "acceptedFr": [
+        "trente et un"
+      ]
+    }
+  }
+}

@@ -1,0 +1,716 @@
+# Reviewed vocabulary: lesson|PDF page|French|Russian|IPA (only when verified)
+# Alternatives separated by « / » are independently accepted answers.
+# 16: contrôle — vocabulary from the reading text and visible exercises.
+16|1|s'appeler|называться
+16|1|fille|девочка / дочь
+16|1|français / française|французский / французская
+16|1|treize|тринадцать
+16|1|école|школа
+16|1|habiter|жить / проживать
+16|1|frère|брат
+16|1|premier|первый
+16|1|quatorze|четырнадцать
+16|1|second|второй
+16|1|neuf|девять
+16|1|papa|папа
+16|1|italien / italienne|итальянский / итальянская
+16|1|fleuriste|флорист
+16|1|mère|мать
+16|1|allemand / allemande|немецкий / немецкая
+16|1|avocate|адвокат
+16|1|parler|разговаривать
+16|1|maison|дом
+16|1|grand|большой
+16|1|chien|собака
+16|1|poisson|рыба
+16|1|chat|кот / кошка
+16|1|aujourd'hui|сегодня
+16|1|samedi|суббота
+16|1|rendre visite|навещать
+16|1|grand-mère|бабушка
+16|1|adorer|обожать
+16|1|gentille|добрая / милая
+16|1|bon|хороший
+16|1|gâteau|торт
+16|1|lundi|понедельник
+16|1|retourner|возвращаться
+16|1|contente|довольная
+16|1|voir|видеть
+16|1|meilleure amie|лучшая подруга
+16|1|aimer|любить
+16|1|matière|учебный предмет
+16|1|préféré / préférée|любимый / любимая
+16|1|sport|спорт
+16|1|lire|читать
+16|1|nager|плавать
+16|1|âge|возраст
+16|1|langue|язык
+16|1|espagnol / espagnole|испанский / испанская
+16|1|anglais / anglaise|английский / английская
+16|1|plage|пляж
+16|1|cinéma|кино
+16|1|maths|математика
+16|1|science|наука
+16|2|japonais / japonaise|японский / японская
+16|2|turc / turque|турецкий / турецкая
+16|2|suédois / suédoise|шведский / шведская
+16|2|mexicain / mexicaine|мексиканский / мексиканская
+16|2|café|кафе / кофе
+16|2|histoire|история
+16|2|pays|страна
+16|2|Italie|Италия
+16|2|Tunisie|Тунис
+16|2|chinois / chinoise|китайский / китайская
+16|2|Chine|Китай
+16|2|américain / américaine|американский / американская
+16|2|États-Unis|США
+16|2|suisse|швейцарский / швейцарская
+16|2|portugais / portugaise|португальский / португальская
+16|2|Portugal|Португалия
+16|2|indien / indienne|индийский / индийская
+16|2|Inde|Индия
+16|2|nationalité|национальность
+16|2|artiste|артист / художник
+16|2|être|быть
+16|2|avoir|иметь
+16|2|petit ami|парень
+16|2|manger|есть / кушать
+16|2|étudier|учиться / изучать
+16|2|danser|танцевать
+16|2|jouer|играть
+16|2|piano|пианино
+16|2|regarder|смотреть
+16|2|télé|телевизор
+16|2|chercher|искать
+16|2|travail|работа
+16|2|marcher|ходить пешком
+16|2|rue|улица
+16|2|boîte|ночной клуб
+16|2|acheter|покупать
+16|2|baguette|багет
+16|2|université|университет
+16|3|téléphone|телефон
+16|3|préférer|предпочитать
+16|3|journal|газета
+16|3|restaurant universitaire|студенческая столовая
+16|3|ami|друг
+16|3|écouter|слушать
+16|3|musique|музыка
+16|3|foot|футбол
+16|3|loisirs|досуг
+16|3|art|искусство
+16|3|quarante-deux|сорок два
+16|3|cinquante-neuf|пятьдесят девять
+16|3|trente et un|тридцать один
+16|3|soixante-huit|шестьдесят восемь
+16|3|cinquante et un|пятьдесят один
+16|3|Allemagne|Германия
+16|3|Argentine|Аргентина
+16|3|Maroc|Марокко
+16|3|Vietnam|Вьетнам
+16|3|soixante-dix-neuf|семьдесят девять
+16|3|quatre-vingt-deux|восемьдесят два
+16|3|quatre-vingt-douze|девяносто два
+16|3|soixante-dix|семьдесят
+16|3|quatre-vingts|восемьдесят
+16|4|radio|радио
+16|4|France|Франция
+16|4|Espagne|Испания
+16|4|poser une question|задавать вопрос
+16|4|affiche|афиша
+16|4|festival|фестиваль
+16|4|mercredi|среда
+16|4|juillet|июль
+16|4|concert|концерт
+16|4|musicienne|музыкантша
+16|4|décembre|декабрь
+16|4|chanson|песня
+16|4|actrice|актриса
+16|4|dernier|последний
+16|4|film|фильм
+16|4|programme|программа
+16|4|présentation|представление
+16|4|prix|цена
+16|4|billet|билет
+16|5|événement|событие
+16|5|date de naissance|дата рождения
+16|5|septembre|сентябрь
+16|5|heure|час
+16|5|commencer|начинать
+16|5|formulaire|анкета
+16|5|se présenter|представляться
+16|5|professeur|преподаватель
+16|5|nom|фамилия
+16|5|prénom|имя
+16|5|adresse|адрес
+16|5|numéro|номер
+16|5|ville|город
+# 17: semivowels, everyday documents, housing, -er verbs.
+17|1|hier|вчера|jɛʁ
+17|1|yeux|глаза|jø
+17|1|travail|работа|tʁavaj
+17|1|il travaille|он работает|il tʁavaj
+17|1|médaille|медаль|medaj
+17|1|fille|девочка / дочь
+17|1|famille|семья
+17|1|ville|город
+17|1|mille|тысяча
+17|1|tranquille|спокойный
+17|1|connaître|знать
+17|1|détail|деталь
+17|1|billet|билет
+17|1|aller|идти
+17|1|lui|он|lɥi
+17|1|puis|потом / затем|pɥi
+17|1|huit|восемь|ɥit
+17|1|nuit|ночь|nɥi
+17|1|pluie|дождь|plɥi
+17|1|commencer|начинать
+17|1|heure|час
+17|1|matin|утро
+17|1|oui|да|wi
+17|1|moi|я|mwa
+17|1|week-end|выходные|wikɛnd
+17|1|au revoir|до свидания|o ʁvwaʁ
+17|1|mois|месяц|mwa
+17|1|revenir|возвращаться
+17|2|passeport|паспорт
+17|2|titre de transport|проездной документ
+17|2|carte d'étudiant|студенческий билет
+17|2|carte d'identité|удостоверение личности
+17|2|permis de conduire|водительские права
+17|2|carte de bibliothèque|читательский билет
+17|3|salut|привет
+17|3|ça va|как дела
+17|3|habiter|жить / проживать
+17|3|maintenant|сейчас
+17|3|université|университет
+17|3|quartier|квартал / район
+17|3|sympa|приятный / симпатичный
+17|3|photo|фотография
+17|3|beau|красивый
+17|3|mer|море
+17|3|plage|пляж
+17|3|appartement|квартира
+17|3|ami|друг
+17|3|rue|улица
+17|3|calme|спокойный / тихий
+17|3|guitare|гитара
+17|3|piano|пианино
+17|3|instrument de musique|музыкальный инструмент
+17|5|langue|язык
+17|5|histoire|история
+17|5|sport|спорт
+17|5|montagne|гора
+17|5|espagnol|испанский
+17|5|marcher|ходить пешком
+17|5|dimanche|воскресенье
+17|5|suédois|шведский
+17|5|ski|лыжи
+17|5|radio|радио
+17|5|détester|ненавидеть
+17|5|aimer|любить
+17|5|adorer|обожать
+17|5|danser|танцевать
+17|5|parler|разговаривать
+17|5|anglais|английский
+17|5|film|фильм
+17|5|argentin|аргентинский
+17|5|venir|приходить
+17|5|nager|плавать
+17|5|italien|итальянский
+17|5|rock|рок
+17|6|noir / noire|чёрный / чёрная
+17|6|blanc / blanche|белый / белая
+17|6|préférer|предпочитать
+17|6|espérer|надеяться
+17|6|répéter|повторять
+17|6|compléter|дополнять
+17|6|acheter|покупать
+17|6|mener|вести
+17|6|amener|приводить
+17|6|emmener|уводить / брать с собой
+17|6|enlever|снимать / убирать
+17|6|peser|весить / взвешивать
+17|6|jeter|бросать / выбрасывать
+17|6|appeler|звать / звонить
+17|6|payer|платить
+17|6|envoyer|отправлять
+17|6|manger|есть / кушать
+17|6|voyager|путешествовать
+17|6|changer|менять
+17|6|partager|делиться
+17|6|avancer|двигаться вперёд
+17|7|riz|рис
+17|7|pâtes|макароны
+17|7|printemps|весна
+17|7|automne|осень
+17|7|vin blanc|белое вино
+17|7|vin rouge|красное вино
+17|7|leçon|урок
+17|7|livre|книга
+17|7|phrase|фраза
+17|7|blonde|блондинка
+17|7|brune|брюнетка
+17|7|rousse|рыжеволосая
+17|7|chaussure|обувь
+17|7|kilo|килограмм
+17|7|veste|жакет / куртка
+17|7|robe|платье
+17|7|pull|свитер
+17|7|sœur|сестра
+17|7|parents|родители
+17|7|glace|мороженое
+17|7|frites|картофель фри
+17|7|sandwich|сэндвич / бутерброд
+17|7|avion|самолёт
+17|7|train|поезд
+17|7|car|междугородний автобус
+17|7|visiter|посещать
+17|7|planète|планета
+17|7|astronef|космический корабль
+17|7|arriver|прибывать
+17|7|nouveau|новый
+17|7|pays|страна
+17|7|dictionnaire|словарь
+17|7|étudier|учиться / изучать
+17|7|poser une question|задавать вопрос
+17|7|goûter|пробовать на вкус
+17|7|nourriture|еда
+17|7|comparer|сравнивать
+17|7|de temps en temps|время от времени
+17|7|regarder|смотреть
+17|7|chanter|петь
+17|7|jouer|играть
+17|7|écouter|слушать
+17|7|marché|рынок
+17|7|école maternelle|детский сад
+17|7|enfant|ребёнок
+17|7|société de consommation|общество потребления
+# 18: accents, verbs from conjugation tasks, places and leisure.
+18|1|répéter|повторять
+18|1|père|отец
+18|1|forêt|лес
+18|1|naïf|наивный
+18|1|avoir|иметь
+18|1|répondre|отвечать|ʁepɔ̃dʁ
+18|1|réviser|повторять|ʁevize
+18|1|détail|деталь|detaj
+18|1|regarder|смотреть|ʁəɡaʁde
+18|1|refaire|переделывать|ʁəfɛʁ
+18|1|demeure|жилище|dəmœʁ
+18|1|mère|мать|mɛʁ
+18|1|frère|брат|fʁɛʁ
+18|1|réaction|реакция|ʁeaksjɔ̃
+18|1|résister|сопротивляться|ʁeziste
+18|1|réparer|чинить|ʁepaʁe
+18|1|revoir|видеть снова|ʁəvwaʁ
+18|1|extrême|крайний|ɛkstʁɛm
+18|1|remanier|перерабатывать|ʁəmanje
+18|1|chère|дорогая|ʃɛʁ
+18|1|carrière|карьера|kaʁjɛʁ
+18|1|téléphone|телефон|telefɔn
+18|2|commencer|начинать
+18|2|cours|занятие / урок
+18|2|finir|заканчивать
+18|2|midi|полдень
+18|2|manger|есть / кушать
+18|2|élève|ученик
+18|2|groupe|группа
+18|2|cafétéria|кафетерий
+18|2|rentrer|возвращаться домой
+18|2|maison|дом
+18|2|déplacer|перемещать
+18|2|prononcer|произносить
+18|2|avancer|двигаться вперёд
+18|2|nager|плавать
+18|2|voyager|путешествовать
+18|2|mélanger|смешивать
+18|2|protéger|защищать
+18|2|obliger|обязывать
+18|2|s'appeler|называться
+18|2|acheter|покупать
+18|2|jeter|бросать / выбрасывать
+18|2|emmener|уводить / брать с собой
+18|2|appeler|звать / звонить
+18|2|épeler|произносить по буквам
+18|3|enlever|снимать / убирать
+18|3|préférer|предпочитать
+18|3|prendre|брать
+18|3|matin|утро
+18|3|dire|говорить
+18|3|professeur|преподаватель
+18|3|nom|фамилия
+18|3|changer|менять
+18|3|lundi prochain|следующий понедельник
+18|3|document|документ
+18|3|inutile|бесполезный / ненужный
+18|3|prénom|имя
+18|3|demain|завтра
+18|4|espérer|надеяться
+18|4|travailler|работать
+18|4|aimer|любить
+18|4|parler|разговаривать
+18|4|écouter|слушать
+18|4|adorer|обожать
+18|4|détester|ненавидеть
+18|4|habiter|жить / проживать
+18|4|ami|друг
+18|4|restaurant|ресторан
+18|4|cinéma|кино
+18|4|film|фильм
+18|4|montagne|гора
+18|4|marcher|ходить пешком
+18|4|week-end|выходные
+18|4|jouer|играть
+18|4|piano|пианино
+18|4|musique|музыка
+18|4|tennis|теннис
+18|4|football|футбол
+18|5|festival|фестиваль
+18|5|sport|спорт
+18|5|ski|лыжи
+18|5|demander|спрашивать / просить
+18|5|place de cinéma|билет в кино
+18|5|danse|танец
+18|5|marche|ходьба
+18|5|natation|плавание
+18|5|lieu|место
+18|5|loisirs|досуг
+18|5|appartement|квартира
+18|5|mer|море
+18|5|plage|пляж
+18|5|quartier|квартал / район
+18|5|rue|улица
+18|5|université|университет
+18|6|instrument de musique|музыкальный инструмент
+18|6|guitare|гитара
+18|6|danser|танцевать
+18|6|skier|кататься на лыжах
+18|6|Suisse|Швейцария
+18|6|Belgique|Бельгия
+# 19: liaison practice, regular verbs, family, professions and invitations.
+19|1|île|остров
+19|1|belle|красивая
+19|1|petite|маленькая
+19|1|grande|большая
+19|1|nouvelle|новая
+19|1|habiter|жить / проживать
+19|1|ami|друг
+19|1|amie|подруга
+19|1|artiste|артист / художник
+19|1|nationalité|национальность
+19|1|âge|возраст
+19|1|profession|профессия
+19|1|adresse|адрес
+19|1|numéro de téléphone|номер телефона
+19|1|trente|тридцать
+19|1|soixante|шестьдесят
+19|1|treize|тринадцать
+19|1|quatre|четыре
+19|2|quartier|квартал / район
+19|2|sympa|приятный / симпатичный
+19|2|université|университет
+19|2|photo|фотография
+19|2|piano|пианино
+19|2|maintenant|сейчас
+19|2|rue|улица
+19|2|calme|спокойный / тихий
+19|2|instrument de musique|музыкальный инструмент
+19|2|mer|море
+19|2|adorer|обожать
+19|2|nager|плавать
+19|2|skier|кататься на лыжах
+19|2|aimer|любить
+19|2|marcher|ходить пешком
+19|2|détester|ненавидеть
+19|2|sport|спорт
+19|2|musique|музыка
+19|2|danse|танец
+19|2|danser|танцевать
+19|2|rock|рок
+19|2|Angleterre|Англия
+19|2|parler|разговаривать
+19|2|anglais|английский
+19|2|film|фильм
+19|2|festival|фестиваль
+19|2|guitare|гитара
+19|2|place|билет / место
+19|2|s'il vous plaît|пожалуйста
+19|2|préférer|предпочитать
+19|2|dimanche|воскресенье
+19|2|montagne|гора
+19|2|week-end|выходные
+19|2|ski|лыжи
+19|2|jouer|играть
+19|2|football|футбол
+19|2|natation|плавание
+19|2|étudier|учиться / изучать
+19|2|français|французский
+19|2|travailler|работать
+19|2|collègue|коллега
+19|2|musique classique|классическая музыка
+19|2|cinéma|кино
+19|2|appeler|звать / звонить
+19|2|jeter|бросать / выбрасывать
+19|2|essayer|пробовать / примерять
+19|2|bercer|укачивать
+19|2|manger|есть / кушать
+19|2|voyager|путешествовать
+19|2|essuyer|вытирать
+19|2|songer|думать / мечтать
+19|2|agacer|раздражать
+19|2|longer|идти вдоль
+19|2|crier|кричать
+19|2|nouer|завязывать
+19|3|mes parents|мои родители
+19|3|ma sœur|моя сестра
+19|3|ta cousine|твоя двоюродная сестра
+19|3|leurs enfants|их дети
+19|3|libre|свободный
+19|3|mari|муж
+19|3|fille unique|единственная дочь
+19|3|fils unique|единственный сын
+19|3|chat|кот / кошка
+19|4|famille|семья
+19|4|grands-parents|бабушка и дедушка
+19|4|grand-mère|бабушка
+19|4|grand-père|дедушка
+19|4|parents|родители
+19|4|mère|мать
+19|4|maman|мама
+19|4|père|отец
+19|4|papa|папа
+19|4|enfant|ребёнок
+19|4|fils|сын
+19|4|fille|дочь
+19|4|frère|брат
+19|4|sœur|сестра
+19|4|petits-enfants|внуки
+19|4|petit-fils|внук
+19|4|petite-fille|внучка
+19|4|oncle|дядя
+19|4|tante|тётя
+19|4|cousin|двоюродный брат
+19|4|cousine|двоюродная сестра
+19|4|neveu|племянник
+19|4|nièce|племянница
+19|4|célibataire|холостой / незамужняя
+19|4|mariage|свадьба / брак
+19|4|femme|жена
+19|4|marié / mariée|женатый / замужняя
+19|4|petit ami|парень
+19|4|petite amie|девушка
+19|4|acteur / actrice|актёр / актриса
+19|4|coiffeur / coiffeuse|парикмахер / парикмахерша
+19|4|étudiant / étudiante|студент / студентка
+19|4|fleuriste|флорист
+19|4|infirmier / infirmière|медбрат / медсестра
+19|4|informaticien / informaticienne|специалист по информатике
+19|4|professeur / professeure|преподаватель / преподавательница
+19|5|couple|пара
+19|5|beaux-parents|родители мужа или жены
+19|5|beau-père|свёкор / тесть
+19|5|belle-mère|свекровь / тёща
+19|5|arrière-grands-parents|прабабушка и прадедушка
+19|5|arrière-grand-père|прадедушка
+19|5|arrière-grand-mère|прабабушка
+19|5|arrière-petits-enfants|правнуки
+19|5|arrière-petit-fils|правнук
+19|5|arrière-petite-fille|правнучка
+19|5|beau-frère|брат мужа или жены / муж сестры
+19|5|belle-sœur|сестра мужа или жены / жена брата
+19|6|inviter|приглашать
+19|6|préparer|готовить / подготавливать
+19|6|liste|список
+19|6|invité|гость
+19|6|important|важный
+19|6|mois|месяц
+19|7|belle-famille|семья мужа или жены
+19|7|rencontrer|встречать
+19|8|beau gosse|красавчик
+19|8|belle gosse|красотка
+19|8|divorcer|разводиться
+19|8|jumeaux|близнецы
+19|8|épouser|жениться на / выходить замуж за
+19|8|beau-fils|зять
+# 20: phonetics, possessive phrases, appearance, relatives and life stages.
+20|1|malade|больной
+20|1|habiter|жить / проживать
+20|1|papa|папа
+20|1|aller|идти
+20|1|bureau|письменный стол / офис
+20|1|lire|читать
+20|1|écrire|писать
+20|1|piscine|бассейн
+20|1|janvier|январь
+20|1|février|февраль
+20|1|billet|билет
+20|1|étudier|учиться / изучать
+20|1|français|французский
+20|1|bon|хороший
+20|1|livre|книга
+20|2|théâtre|театр
+20|2|aéroport|аэропорт
+20|2|vélo|велосипед
+20|2|voiture|машина
+20|2|bateau|лодка / корабль
+20|2|moto|мотоцикл
+20|2|paire de chaussures|пара обуви
+20|2|amie|подруга
+20|2|anglaise|английская
+20|2|espagnole|испанская
+20|2|américaine|американская
+20|2|allemande|немецкая
+20|2|indienne|индийская
+20|2|angolaise|ангольская
+20|2|italienne|итальянская
+20|2|rendez-vous|встреча
+20|2|ici|здесь
+20|2|d'accord|согласен / хорошо
+20|2|café|кафе / кофе
+20|2|cinéma|кино
+20|2|cafétéria|кафетерий
+20|2|restaurant|ресторан
+20|2|maman|мама
+20|2|enfant|ребёнок
+20|2|fils|сын
+20|2|fille|дочь
+20|2|famille|семья
+20|2|grand-père|дедушка
+20|2|grand-mère|бабушка
+20|2|jouer|играть
+20|2|saxo|саксофон
+20|2|piano|пианино
+20|2|préférer|предпочитать
+20|2|accordéon|аккордеон
+20|2|violon|скрипка
+20|2|adorer|обожать
+20|2|souffler|дуть
+20|2|pipeau|дудочка
+20|3|père|отец
+20|3|mère|мать
+20|3|parents|родители
+20|3|mon père|мой отец
+20|3|ma mère|моя мать
+20|3|mes parents|мои родители
+20|3|ton père|твой отец
+20|3|ta mère|твоя мать
+20|3|tes parents|твои родители
+20|3|son père|его отец / её отец
+20|3|sa mère|его мать / её мать
+20|3|ses parents|его родители / её родители
+20|3|notre père|наш отец
+20|3|votre mère|ваша мать
+20|3|leurs parents|их родители
+20|3|ami|друг
+20|3|erreur|ошибка
+20|4|blond|светловолосый
+20|4|brune|темноволосая
+20|4|frère|брат
+20|4|sœur|сестра
+20|4|châtain|каштановый
+20|4|emporter|брать с собой
+20|4|maillot|купальник / плавки
+20|4|serviette|полотенце
+20|4|shampooing|шампунь
+20|4|sac|сумка
+20|4|bonnet|шапочка
+20|4|lunettes|очки
+20|4|école|школа
+20|4|stylo|ручка
+20|4|gomme|ластик
+20|4|dictionnaire|словарь
+20|4|règle|линейка
+20|4|cahier|тетрадь
+20|4|voisine|соседка
+20|4|étudiante|студентка
+20|4|professeur|преподаватель
+20|4|adresse|адрес
+20|4|visage|лицо
+20|4|bouche|рот
+20|4|yeux|глаза
+20|4|cheveux|волосы
+20|4|main|рука
+20|4|sourire|улыбка
+20|4|silhouette|силуэт
+20|4|style|стиль
+20|4|ordonné|аккуратный
+20|4|désordonné|неаккуратный
+20|4|chambre|комната
+20|4|rangé|убранный
+20|4|désordre|беспорядок
+20|4|lit|кровать
+20|4|vêtement|одежда
+20|4|repassé|выглаженный
+20|4|froissé|мятый
+20|4|écriture|почерк
+20|4|lisible|разборчивый
+20|4|illisible|неразборчивый
+20|4|propre|чистый
+20|4|sale|грязный
+20|5|marié / mariée|женатый / замужняя
+20|5|mari|муж
+20|5|femme|жена
+20|5|belle-fille|невестка
+20|5|beau-père|свёкор / тесть
+20|5|belle-mère|свекровь / тёща
+20|5|beaux-parents|родители мужа или жены
+20|5|belle-sœur|сестра мужа или жены / жена брата
+20|5|gendre|зять
+20|5|beau-frère|брат мужа или жены / муж сестры
+20|5|petits-enfants|внуки
+20|5|petite-fille|внучка
+20|5|petit-fils|внук
+20|5|grands-parents|бабушка и дедушка
+20|5|cousin|двоюродный брат
+20|5|cousine|двоюродная сестра
+20|5|oncle|дядя
+20|5|tante|тётя
+20|5|neveu|племянник
+20|5|nièce|племянница
+20|5|papi|дедуля
+20|5|mamie|бабуля
+20|5|tonton|дядюшка
+20|5|tatie|тётушка
+20|6|arbre généalogique|генеалогическое дерево
+20|6|s'il te plaît|пожалуйста
+20|6|venir|приходить
+20|6|merci|спасибо
+20|6|au revoir|до свидания
+20|7|enfance|детство
+20|7|adolescence|подростковый возраст
+20|7|bébé|младенец
+20|7|adolescent / adolescente|подросток
+20|7|adulte|взрослый
+20|7|personne âgée|пожилой человек
+20|7|âge|возраст
+20|7|petit garçon|маленький мальчик
+20|7|petite fille|маленькая девочка
+20|7|jeune|молодой
+20|7|jeune femme|молодая женщина
+20|7|âgé / âgée|пожилой / пожилая
+20|7|vieux / vieille|старый / старая
+20|7|sport|спорт
+20|7|vie|жизнь
+20|7|mort|смерть
+20|7|naître|рождаться
+20|7|date de naissance|дата рождения
+20|7|anniversaire|день рождения / годовщина
+20|7|septembre|сентябрь
+20|7|perdre|терять
+20|7|mourir|умирать
+20|7|décéder|скончаться
+20|7|mai|май
+20|8|garçon|мальчик
+20|8|avoir|иметь
+20|8|voir|видеть
+20|8|souvent|часто
+20|8|dimanche|воскресенье
+20|8|profession|профессия
+20|8|organiser|организовывать
+20|8|fête|праздник
+20|8|mail|электронное письмо
+20|8|inviter|приглашать
+20|8|bonjour|здравствуйте
+20|8|bises|целую

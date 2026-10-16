@@ -1,0 +1,49 @@
+{
+  "reviewDate": "2026-10-15",
+  "images": [
+    {
+      "french": "souris",
+      "lessonId": "a1-01",
+      "filename": "souris-78a729b097.jpg",
+      "sourceFilename": "souris-animal-pixabay-1708347.jpg",
+      "sha256": "78a729b097b98ae4cbf9475f05e335aafc705f4d25f843e06566af4f1bac4ffd",
+      "alt": "Маленькая коричневая мышь на земле.",
+      "sourceUrl": "https://pixabay.com/fr/photos/souris-rongeur-mammif%C3%A8re-nager-1708347/",
+      "author": "Alexas_Fotos",
+      "source": "Pixabay"
+    },
+    {
+      "french": "loup",
+      "lessonId": "a1-01",
+      "filename": "loup-68ad217fae.jpg",
+      "sourceFilename": "loup-animal-pixabay-8142720.png",
+      "sha256": "68ad217faeaf9551c94cfc06006ad6500bf8f19cfc7a5a0d23f71266cb1b57a5",
+      "alt": "Серый волк крупным планом.",
+      "sourceUrl": "https://pixabay.com/fr/photos/loup-loup-eurasien-loup-commun-8142720/",
+      "author": "ambquinn",
+      "source": "Pixabay"
+    },
+    {
+      "french": "soupe",
+      "lessonId": "a1-01",
+      "filename": "soupe-75e9ccd60d.jpg",
+      "sourceFilename": "bol-soupe-legumes-pixabay-8021570.jpg",
+      "sha256": "75e9ccd60df9655f09dfdac6dcae97aad6317d8b4c6c6f9a34a2530319f4cd67",
+      "alt": "Миска овощного супа с ложкой.",
+      "sourceUrl": "https://pixabay.com/fr/photos/soupe-soupe-aux-l%C3%A9gume-8021570/",
+      "author": "MichWich",
+      "source": "Pixabay"
+    },
+    {
+      "french": "soleil",
+      "lessonId": "a1-01",
+      "filename": "soleil-2979562aaa.jpg",
+      "sourceFilename": "soleil-ciel-pixabay-3588618.jpg",
+      "sha256": "2979562aaaa306c53adb5dc207f6b44a9f6e9f23477016508d35a3bb86c9f817",
+      "alt": "Солнце в голубом небе.",
+      "sourceUrl": "https://pixabay.com/fr/photos/soleil-ciel-bleu-lumi%C3%A8re-du-soleil-3588618/",
+      "author": "jplenio",
+      "source": "Pixabay"
+    }
+  ]
+}
