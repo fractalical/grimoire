@@ -4,9 +4,6 @@ services:
   app:
     build:
       context: .
-    environment:
-      __VITE_ADDITIONAL_SERVER_ALLOWED_HOSTS: app
-      GRIMOIRE_ALLOWED_HOSTS: ${GRIMOIRE_ALLOWED_HOSTS:-}
     restart: unless-stopped
     networks:
       - grimoire

@@ -3,16 +3,37 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "engines": { "node": ">=22.12.0" },
+  "engines": {
+    "node": ">=22.12.0"
+  },
   "scripts": {
-    "start": "vite --host 0.0.0.0 --port 3000 --strictPort",
+    "start": "serve dist --listen tcp://0.0.0.0:3000 --no-clipboard --no-port-switching",
     "dev": "vite --host 127.0.0.1",
     "build": "tsc -b && vite build",
     "preview": "vite preview --host 127.0.0.1",
     "test": "vitest run",
     "test:e2e": "playwright test",
+    "test:deployment": "npm run build && playwright test --config playwright.deployment.config.ts",
     "content": "python3 ../scripts/build_game_content.py"
   },
-  "dependencies": { "react": "latest", "react-dom": "latest", "lucide-react": "latest" },
-  "devDependencies": { "@types/react": "latest", "@types/react-dom": "latest", "typescript": "latest", "vite": "latest", "@vitejs/plugin-react": "latest", "vitest": "latest", "@playwright/test": "latest", "fake-indexeddb": "latest", "@types/node": "latest" }
+  "overrides": {
+    "serve": { "compression": "1.8.2" }
+  },
+  "dependencies": {
+    "lucide-react": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "serve": "14.2.6"
+  },
+  "devDependencies": {
+    "@playwright/test": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@vitejs/plugin-react": "latest",
+    "fake-indexeddb": "latest",
+    "typescript": "latest",
+    "vite": "latest",
+    "vitest": "latest"
+  }
 }
