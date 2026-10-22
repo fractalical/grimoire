@@ -55,16 +55,16 @@ export function WorldMap({ catalog, state, lessons, selected, onSelect, walking 
     <span className="map-caption"><span className="tiny-star">✧</span> ЛЕС ПЕРВЫХ ЗНАНИЙ</span>
     {lessons.map((lesson, i) => {
       const point = POINTS[i]; const done = !!state.completed[lesson.id]; const open = unlocked(catalog, state, lesson.id);
-      return <div key={lesson.id} className="map-node-wrap" style={{ left: `${point.x}%`, top: point.y }}>
-        {(lesson.order % 3 === 0) && <span className="map-reward" title="Награда за прохождение">{lesson.order % 6 === 0 ? <Sparkles size={14} /> : <BookOpen size={14} />}</span>}
+      return <div key={lesson.id} className="map-node-wrap" style={{ left: `${point.x}%`, top: `${point.y / 16}rem` }}>
+        {(lesson.order % 3 === 0) && <span className="map-reward" title="Награда за прохождение">{lesson.order % 6 === 0 ? <Sparkles size="0.875rem" /> : <BookOpen size="0.875rem" />}</span>}
         <button aria-label={`Урок ${lesson.order}: ${lesson.title}${done ? ', пройден' : !open ? ', закрыт' : ', доступен'}`} aria-pressed={selected === lesson.id} onClick={() => onSelect(lesson.id)} className={`map-node ${done ? 'done' : open ? 'available' : 'locked'} ${selected === lesson.id ? 'selected' : ''}`}>
-          {done ? <Check size={21} /> : <span>{lesson.order}</span>}
-          {!open && !done && <LockKeyhole className="node-lock" size={10} />}
+          {done ? <Check size="1.3125rem" /> : <span>{lesson.order}</span>}
+          {!open && !done && <LockKeyhole className="node-lock" size="0.625rem" />}
         </button>
         <span className="node-label">{lesson.order.toString().padStart(2, '0')}</span>
       </div>;
     })}
-    {lessons.some(lesson => lesson.order === latest + 1) && <div className={`map-mage ${walking ? 'walking' : ''}`} style={{ left: `calc(${hero.x}% - 30px)`, top: hero.y - 80 }}><Mage form={rewards(state).form} /></div>}
+    {lessons.some(lesson => lesson.order === latest + 1) && <div className={`map-mage ${walking ? 'walking' : ''}`} style={{ left: `calc(${hero.x}% - 1.875rem)`, top: `${(hero.y - 80) / 16}rem` }}><Mage form={rewards(state).form} /></div>}
   </div>;
 }
 
